@@ -1,0 +1,1001 @@
+student_id,school_id,student_name,gender,age,class,roll_no,blood_group,attendance_percent,awareness_score,parent_name,parent_phone,state,district
+ST000001,S00034,Sneha Sharma,Female,17,10,57,AB+,99,36,Rahul Reddy,9822724594,Delhi,New Delhi
+ST000002,S00077,Aisha Sharma,Male,9,8,16,O+,91,58,Neha Joshi,9431618901,Karnataka,Bengaluru
+ST000003,S00002,Ishaan Das,Female,14,3,48,B+,96,93,Aditya Jadhav,9292803105,Karnataka,Bengaluru
+ST000004,S00075,Rahul Das,Female,9,1,35,B+,88,23,Neha Nair,9753538863,Gujarat,Ahmedabad
+ST000005,S00083,Rahul Patel,Male,12,5,52,AB+,79,79,Ananya Joshi,9702986907,Delhi,New Delhi
+ST000006,S00038,Aditya Nair,Male,8,3,28,A+,89,32,Aarav Jadhav,9115247530,Maharashtra,Pune
+ST000007,S00066,Sneha Jadhav,Female,14,12,24,A+,82,61,Rahul Sharma,9789500654,Tamil Nadu,Chennai
+ST000008,S00031,Kavya Patel,Male,9,4,59,AB+,96,31,Rahul Singh,9905152503,Delhi,New Delhi
+ST000009,S00024,Neha Patel,Female,6,10,21,O+,85,48,Aisha Patel,9546395270,Delhi,New Delhi
+ST000010,S00094,Kavya Reddy,Female,17,7,53,B+,88,39,Ishaan Joshi,9596812141,Tamil Nadu,Chennai
+ST000011,S00034,Aditya Patel,Female,15,5,26,A+,82,96,Kavya Joshi,9310259674,Karnataka,Bengaluru
+ST000012,S00074,Vivaan Reddy,Female,14,9,30,AB+,90,26,Sai Kulkarni,9112409895,Karnataka,Bengaluru
+ST000013,S00034,Diya Das,Male,18,4,37,A+,87,63,Aisha Nair,9582436313,Tamil Nadu,Chennai
+ST000014,S00095,Ishaan Nair,Male,12,9,16,AB+,88,41,Sneha Sharma,9670251921,Karnataka,Bengaluru
+ST000015,S00040,Neha Reddy,Male,16,4,9,AB+,87,94,Aisha Patel,9020302446,Delhi,New Delhi
+ST000016,S00002,Aarav Nair,Male,9,10,7,AB+,82,55,Rahul Joshi,9246856446,Gujarat,Ahmedabad
+ST000017,S00079,Aisha Nair,Female,10,11,25,AB+,83,30,Ishaan Das,9460625855,Tamil Nadu,Chennai
+ST000018,S00054,Arjun Kulkarni,Male,18,6,27,O+,70,94,Arjun Patel,9728654240,Delhi,New Delhi
+ST000019,S00077,Rohan Nair,Male,11,5,49,AB+,96,89,Rahul Khan,9546410317,Tamil Nadu,Chennai
+ST000020,S00010,Priya Khan,Female,7,9,20,AB+,79,20,Aisha Khan,9471336806,Tamil Nadu,Chennai
+ST000021,S00054,Ishaan Jadhav,Female,16,4,56,O+,70,53,Priya Khan,9330414828,Gujarat,Ahmedabad
+ST000022,S00008,Diya Joshi,Male,16,7,39,A+,75,25,Kavya Nair,9357372919,Delhi,New Delhi
+ST000023,S00042,Arjun Singh,Male,15,7,21,A+,97,73,Sneha Jadhav,9689764194,Tamil Nadu,Chennai
+ST000024,S00013,Arjun Kulkarni,Male,15,12,19,O+,77,43,Vivaan Kulkarni,9704280635,Karnataka,Bengaluru
+ST000025,S00008,Aisha Jadhav,Female,16,11,27,AB+,79,48,Sneha Nair,9339166092,Delhi,New Delhi
+ST000026,S00079,Aditya Nair,Female,17,3,18,AB+,84,20,Arjun Joshi,9944263533,Tamil Nadu,Chennai
+ST000027,S00091,Neha Joshi,Female,13,5,7,A+,82,44,Priya Nair,9682239435,Maharashtra,Pune
+ST000028,S00095,Sneha Nair,Female,9,3,43,AB+,85,83,Diya Das,9377272521,Tamil Nadu,Chennai
+ST000029,S00064,Aarav Sharma,Female,8,3,40,AB+,78,70,Aditya Joshi,9277187346,Tamil Nadu,Chennai
+ST000030,S00042,Sneha Das,Female,15,9,9,AB+,71,31,Vivaan Khan,9498095093,Maharashtra,Pune
+ST000031,S00082,Rahul Khan,Male,15,3,29,A+,86,90,Ishaan Das,9843974434,Delhi,New Delhi
+ST000032,S00065,Aarav Kulkarni,Male,7,1,5,AB+,76,43,Neha Reddy,9599891306,Karnataka,Bengaluru
+ST000033,S00076,Kavya Singh,Male,8,11,2,AB+,98,93,Kavya Singh,9170739377,Delhi,New Delhi
+ST000034,S00055,Rahul Khan,Female,18,9,12,B+,96,77,Rohan Patel,9969061586,Karnataka,Bengaluru
+ST000035,S00090,Rahul Singh,Male,10,1,52,AB+,97,36,Ishaan Kulkarni,9307111274,Tamil Nadu,Chennai
+ST000036,S00095,Rohan Nair,Female,11,6,37,O+,86,21,Rahul Khan,9040817249,Tamil Nadu,Chennai
+ST000037,S00075,Vivaan Khan,Female,14,1,44,B+,84,56,Arjun Singh,9636896548,Gujarat,Ahmedabad
+ST000038,S00066,Vivaan Joshi,Female,13,4,55,B+,98,42,Ishaan Nair,9416740603,Karnataka,Bengaluru
+ST000039,S00089,Sai Kulkarni,Male,15,8,31,B+,82,64,Aisha Kulkarni,9400080116,Delhi,New Delhi
+ST000040,S00026,Kavya Kulkarni,Male,15,11,35,AB+,82,47,Sneha Singh,9442833297,Tamil Nadu,Chennai
+ST000041,S00058,Ananya Nair,Male,14,2,58,O+,72,28,Sneha Joshi,9215623582,Tamil Nadu,Chennai
+ST000042,S00038,Kavya Khan,Male,10,9,34,B+,97,43,Ishaan Das,9654962900,Tamil Nadu,Chennai
+ST000043,S00038,Diya Das,Female,6,7,50,AB+,70,81,Rohan Kulkarni,9220040591,Gujarat,Ahmedabad
+ST000044,S00095,Aarav Jadhav,Female,17,11,41,B+,82,57,Aisha Sharma,9431964013,Karnataka,Bengaluru
+ST000045,S00030,Rahul Joshi,Male,18,12,2,AB+,99,72,Diya Patel,9070020297,Tamil Nadu,Chennai
+ST000046,S00087,Rohan Singh,Female,11,3,29,B+,86,81,Aisha Patel,9150184649,Gujarat,Ahmedabad
+ST000047,S00035,Sai Joshi,Male,17,3,40,A+,86,67,Neha Das,9701907055,Karnataka,Bengaluru
+ST000048,S00050,Diya Das,Female,8,9,48,AB+,74,53,Sneha Das,9049044832,Tamil Nadu,Chennai
+ST000049,S00070,Sai Patel,Male,10,9,57,AB+,90,81,Sneha Nair,9405148920,Maharashtra,Pune
+ST000050,S00098,Arjun Das,Male,9,1,41,A+,72,49,Ananya Singh,9071213180,Gujarat,Ahmedabad
+ST000051,S00060,Aditya Jadhav,Male,18,8,39,A+,97,76,Vivaan Singh,9748543632,Maharashtra,Pune
+ST000052,S00019,Sneha Sharma,Male,14,5,52,AB+,78,26,Rahul Khan,9982337258,Delhi,New Delhi
+ST000053,S00036,Ananya Kulkarni,Male,10,6,55,A+,99,34,Sai Singh,9847035654,Delhi,New Delhi
+ST000054,S00083,Rohan Khan,Female,6,11,2,O+,90,43,Priya Singh,9681859288,Gujarat,Ahmedabad
+ST000055,S00100,Neha Kulkarni,Male,15,5,33,B+,74,59,Rahul Nair,9870414332,Delhi,New Delhi
+ST000056,S00035,Vivaan Das,Male,6,7,53,B+,88,39,Neha Nair,9381623667,Delhi,New Delhi
+ST000057,S00077,Vivaan Singh,Male,17,2,6,A+,70,36,Aditya Khan,9204943858,Maharashtra,Pune
+ST000058,S00034,Ananya Reddy,Female,16,8,9,AB+,72,22,Priya Patel,9385046570,Maharashtra,Pune
+ST000059,S00080,Arjun Sharma,Male,12,3,18,O+,83,70,Priya Jadhav,9712697979,Karnataka,Bengaluru
+ST000060,S00081,Sneha Reddy,Female,18,7,8,O+,92,97,Ananya Jadhav,9809348749,Gujarat,Ahmedabad
+ST000061,S00001,Aditya Joshi,Male,15,9,45,A+,95,35,Arjun Das,9251558548,Gujarat,Ahmedabad
+ST000062,S00094,Ishaan Singh,Female,15,5,27,A+,76,71,Arjun Nair,9719210860,Delhi,New Delhi
+ST000063,S00022,Ananya Das,Female,11,5,52,O+,100,49,Diya Patel,9017305255,Karnataka,Bengaluru
+ST000064,S00036,Arjun Singh,Male,10,11,32,A+,95,35,Kavya Jadhav,9005722368,Delhi,New Delhi
+ST000065,S00040,Ananya Das,Female,9,9,18,A+,75,81,Diya Jadhav,9614291180,Gujarat,Ahmedabad
+ST000066,S00046,Priya Jadhav,Female,7,4,53,B+,85,45,Rohan Patel,9347223457,Maharashtra,Pune
+ST000067,S00044,Ishaan Singh,Male,18,8,49,B+,79,83,Aditya Nair,9717728438,Maharashtra,Pune
+ST000068,S00091,Sneha Khan,Female,18,12,31,B+,94,34,Sneha Kulkarni,9117623738,Delhi,New Delhi
+ST000069,S00053,Priya Sharma,Female,16,7,22,B+,86,23,Kavya Singh,9918245003,Gujarat,Ahmedabad
+ST000070,S00031,Ananya Nair,Male,17,10,57,A+,72,68,Neha Singh,9077868789,Tamil Nadu,Chennai
+ST000071,S00088,Sai Singh,Female,13,10,52,O+,80,82,Aditya Khan,9414441128,Tamil Nadu,Chennai
+ST000072,S00042,Neha Khan,Male,10,12,46,O+,92,78,Rahul Reddy,9611944428,Karnataka,Bengaluru
+ST000073,S00080,Aditya Das,Female,18,8,9,B+,93,85,Neha Das,9923282987,Gujarat,Ahmedabad
+ST000074,S00063,Ananya Khan,Female,13,6,44,O+,99,60,Rohan Sharma,9347497965,Gujarat,Ahmedabad
+ST000075,S00022,Arjun Joshi,Female,8,12,32,A+,82,75,Sneha Nair,9404115313,Tamil Nadu,Chennai
+ST000076,S00093,Diya Kulkarni,Male,18,4,36,B+,77,29,Kavya Singh,9721679523,Delhi,New Delhi
+ST000077,S00028,Rohan Khan,Female,17,12,23,B+,70,57,Aisha Patel,9832119768,Delhi,New Delhi
+ST000078,S00038,Aditya Jadhav,Female,8,8,53,AB+,87,100,Rahul Khan,9229025783,Karnataka,Bengaluru
+ST000079,S00049,Ishaan Das,Male,12,10,37,AB+,90,78,Ishaan Sharma,9963032575,Tamil Nadu,Chennai
+ST000080,S00014,Ananya Joshi,Male,18,1,43,B+,99,55,Aisha Patel,9845109629,Gujarat,Ahmedabad
+ST000081,S00032,Priya Jadhav,Male,12,10,5,A+,100,70,Ananya Singh,9415625880,Maharashtra,Pune
+ST000082,S00032,Kavya Nair,Male,15,5,32,AB+,94,75,Sneha Jadhav,9951192344,Delhi,New Delhi
+ST000083,S00048,Arjun Khan,Female,10,4,37,B+,94,61,Sai Joshi,9797010430,Karnataka,Bengaluru
+ST000084,S00041,Priya Reddy,Female,14,1,3,O+,82,67,Neha Joshi,9705577693,Delhi,New Delhi
+ST000085,S00024,Aarav Khan,Male,11,7,32,O+,81,21,Diya Patel,9602302670,Tamil Nadu,Chennai
+ST000086,S00070,Aisha Sharma,Male,12,4,11,A+,72,63,Diya Nair,9854284102,Gujarat,Ahmedabad
+ST000087,S00015,Rohan Patel,Male,16,9,42,A+,80,84,Sai Singh,9492913146,Delhi,New Delhi
+ST000088,S00005,Arjun Reddy,Female,10,11,1,O+,90,61,Rohan Sharma,9947291540,Tamil Nadu,Chennai
+ST000089,S00088,Kavya Nair,Male,14,3,30,O+,86,28,Neha Reddy,9682661592,Delhi,New Delhi
+ST000090,S00071,Neha Das,Male,7,3,41,O+,89,25,Ananya Nair,9177643791,Maharashtra,Pune
+ST000091,S00020,Arjun Khan,Female,6,9,4,B+,98,61,Ananya Nair,9417567096,Karnataka,Bengaluru
+ST000092,S00010,Sneha Khan,Male,8,7,60,A+,88,54,Vivaan Joshi,9826226278,Gujarat,Ahmedabad
+ST000093,S00048,Diya Joshi,Female,8,4,57,O+,84,42,Ishaan Das,9771874417,Maharashtra,Pune
+ST000094,S00078,Diya Das,Female,14,6,50,B+,81,59,Aisha Patel,9357482119,Maharashtra,Pune
+ST000095,S00052,Diya Singh,Female,10,6,26,AB+,83,92,Vivaan Patel,9786515568,Gujarat,Ahmedabad
+ST000096,S00092,Rohan Reddy,Female,11,6,6,O+,97,20,Kavya Patel,9701105333,Karnataka,Bengaluru
+ST000097,S00099,Aarav Joshi,Female,18,7,45,B+,89,44,Kavya Sharma,9493394264,Maharashtra,Pune
+ST000098,S00012,Arjun Patel,Female,9,1,22,A+,87,80,Neha Khan,9869023001,Maharashtra,Pune
+ST000099,S00006,Rahul Reddy,Male,7,6,18,B+,85,57,Sneha Khan,9738789922,Gujarat,Ahmedabad
+ST000100,S00059,Ananya Patel,Male,12,3,31,B+,90,39,Sneha Das,9072276765,Delhi,New Delhi
+ST000101,S00044,Aditya Das,Female,10,8,46,B+,78,64,Sneha Kulkarni,9897112007,Tamil Nadu,Chennai
+ST000102,S00099,Sai Kulkarni,Female,17,4,20,A+,94,82,Sneha Jadhav,9021841238,Delhi,New Delhi
+ST000103,S00074,Priya Joshi,Female,15,6,40,O+,77,80,Neha Joshi,9282171439,Karnataka,Bengaluru
+ST000104,S00028,Sai Jadhav,Male,12,11,35,B+,86,77,Rohan Patel,9699663001,Gujarat,Ahmedabad
+ST000105,S00054,Ishaan Sharma,Male,18,7,52,B+,70,40,Kavya Sharma,9165786404,Tamil Nadu,Chennai
+ST000106,S00043,Kavya Patel,Female,10,5,16,A+,87,36,Aditya Jadhav,9775327026,Tamil Nadu,Chennai
+ST000107,S00026,Rahul Joshi,Female,12,12,58,A+,91,87,Sneha Das,9350440842,Delhi,New Delhi
+ST000108,S00058,Ananya Nair,Female,14,6,3,B+,84,76,Ishaan Joshi,9529238407,Delhi,New Delhi
+ST000109,S00059,Vivaan Kulkarni,Male,8,4,1,AB+,70,26,Priya Reddy,9919776150,Delhi,New Delhi
+ST000110,S00056,Priya Singh,Male,16,3,7,O+,74,28,Priya Kulkarni,9886937533,Karnataka,Bengaluru
+ST000111,S00099,Diya Reddy,Male,16,4,37,A+,89,67,Ishaan Das,9893508165,Gujarat,Ahmedabad
+ST000112,S00018,Sai Joshi,Male,16,6,44,O+,100,73,Sneha Das,9483127164,Maharashtra,Pune
+ST000113,S00049,Vivaan Das,Female,15,2,57,AB+,85,61,Ishaan Patel,9873311892,Karnataka,Bengaluru
+ST000114,S00091,Vivaan Das,Male,7,2,24,A+,95,96,Kavya Reddy,9980635427,Tamil Nadu,Chennai
+ST000115,S00064,Aisha Singh,Male,10,10,44,AB+,77,70,Rohan Reddy,9559162752,Maharashtra,Pune
+ST000116,S00034,Aditya Singh,Female,16,8,26,A+,81,26,Rahul Singh,9152808929,Karnataka,Bengaluru
+ST000117,S00029,Ananya Jadhav,Male,14,9,40,AB+,72,96,Arjun Khan,9265249650,Maharashtra,Pune
+ST000118,S00086,Vivaan Das,Male,6,1,7,A+,83,38,Arjun Das,9547365284,Gujarat,Ahmedabad
+ST000119,S00083,Priya Patel,Male,13,11,28,A+,85,85,Vivaan Reddy,9329729307,Maharashtra,Pune
+ST000120,S00002,Vivaan Kulkarni,Female,16,1,56,AB+,76,24,Diya Jadhav,9550787132,Gujarat,Ahmedabad
+ST000121,S00070,Kavya Khan,Male,7,7,3,AB+,99,26,Aisha Singh,9785629900,Tamil Nadu,Chennai
+ST000122,S00066,Ishaan Singh,Male,17,12,51,B+,86,73,Rahul Das,9873163557,Delhi,New Delhi
+ST000123,S00033,Rohan Joshi,Female,12,3,20,O+,80,91,Aisha Kulkarni,9863358715,Tamil Nadu,Chennai
+ST000124,S00068,Rohan Jadhav,Female,16,1,45,B+,90,85,Aditya Nair,9940158366,Delhi,New Delhi
+ST000125,S00015,Arjun Nair,Female,17,6,47,O+,76,20,Rohan Patel,9277581114,Karnataka,Bengaluru
+ST000126,S00006,Aarav Joshi,Male,8,4,4,O+,73,55,Aisha Khan,9144535272,Tamil Nadu,Chennai
+ST000127,S00030,Aisha Reddy,Female,8,5,56,B+,99,50,Aditya Kulkarni,9939867353,Tamil Nadu,Chennai
+ST000128,S00001,Sneha Singh,Female,7,11,31,O+,88,91,Sai Khan,9789572111,Tamil Nadu,Chennai
+ST000129,S00003,Rahul Khan,Male,11,12,53,AB+,86,37,Rohan Sharma,9627401350,Karnataka,Bengaluru
+ST000130,S00076,Neha Sharma,Male,13,3,18,O+,76,65,Ananya Kulkarni,9978544747,Delhi,New Delhi
+ST000131,S00081,Vivaan Khan,Male,15,6,28,O+,99,72,Sneha Kulkarni,9337897727,Tamil Nadu,Chennai
+ST000132,S00098,Aarav Das,Male,11,8,21,O+,94,53,Ishaan Kulkarni,9269888611,Karnataka,Bengaluru
+ST000133,S00073,Vivaan Sharma,Female,9,9,60,AB+,77,20,Rahul Kulkarni,9118094254,Maharashtra,Pune
+ST000134,S00034,Diya Singh,Male,6,9,20,B+,97,27,Aditya Singh,9005654233,Karnataka,Bengaluru
+ST000135,S00096,Neha Das,Female,14,9,29,O+,75,31,Aarav Patel,9874129548,Gujarat,Ahmedabad
+ST000136,S00025,Ananya Das,Male,12,3,46,B+,79,49,Diya Jadhav,9311688720,Karnataka,Bengaluru
+ST000137,S00030,Diya Patel,Male,9,4,15,A+,94,82,Arjun Khan,9689443833,Delhi,New Delhi
+ST000138,S00020,Ananya Kulkarni,Male,18,4,1,B+,88,86,Aisha Nair,9163488395,Tamil Nadu,Chennai
+ST000139,S00021,Aditya Sharma,Male,11,6,24,B+,75,85,Arjun Nair,9438278268,Tamil Nadu,Chennai
+ST000140,S00082,Aisha Patel,Female,12,7,13,AB+,88,69,Aditya Joshi,9585244754,Tamil Nadu,Chennai
+ST000141,S00080,Neha Das,Male,9,4,23,A+,75,74,Aisha Kulkarni,9445948622,Karnataka,Bengaluru
+ST000142,S00037,Vivaan Singh,Male,11,7,12,O+,86,66,Ishaan Sharma,9675832331,Gujarat,Ahmedabad
+ST000143,S00037,Neha Reddy,Female,11,3,49,AB+,70,78,Kavya Kulkarni,9762226114,Karnataka,Bengaluru
+ST000144,S00060,Aditya Khan,Male,13,4,24,A+,82,98,Neha Sharma,9327371834,Karnataka,Bengaluru
+ST000145,S00020,Kavya Reddy,Female,16,3,33,AB+,71,33,Rahul Sharma,9857702971,Tamil Nadu,Chennai
+ST000146,S00031,Rohan Das,Male,18,9,4,O+,86,77,Rahul Nair,9016932998,Delhi,New Delhi
+ST000147,S00085,Aditya Kulkarni,Female,15,11,11,AB+,91,67,Aisha Reddy,9917197209,Tamil Nadu,Chennai
+ST000148,S00038,Neha Sharma,Male,6,3,6,B+,93,92,Ananya Nair,9216005589,Maharashtra,Pune
+ST000149,S00010,Aditya Das,Female,17,5,16,A+,91,20,Vivaan Khan,9791163200,Delhi,New Delhi
+ST000150,S00046,Neha Singh,Female,9,8,16,AB+,75,62,Priya Patel,9671107781,Gujarat,Ahmedabad
+ST000151,S00030,Priya Patel,Female,18,8,46,O+,95,60,Diya Kulkarni,9487540771,Delhi,New Delhi
+ST000152,S00053,Sneha Sharma,Male,10,4,32,O+,99,57,Kavya Joshi,9935671034,Maharashtra,Pune
+ST000153,S00073,Aditya Khan,Male,6,8,55,O+,71,91,Kavya Nair,9631104994,Tamil Nadu,Chennai
+ST000154,S00032,Aditya Patel,Male,12,6,60,A+,70,85,Rahul Singh,9434738346,Maharashtra,Pune
+ST000155,S00097,Ishaan Kulkarni,Male,15,9,12,AB+,80,98,Rohan Reddy,9206996193,Delhi,New Delhi
+ST000156,S00010,Neha Das,Female,13,6,28,B+,81,66,Rohan Joshi,9757076918,Delhi,New Delhi
+ST000157,S00087,Rohan Nair,Female,15,9,23,B+,88,92,Aisha Patel,9009417459,Gujarat,Ahmedabad
+ST000158,S00083,Sneha Khan,Male,9,4,3,O+,70,36,Rohan Khan,9510398314,Maharashtra,Pune
+ST000159,S00053,Aditya Khan,Male,11,3,49,AB+,90,100,Ishaan Joshi,9939606309,Karnataka,Bengaluru
+ST000160,S00047,Kavya Kulkarni,Male,6,4,60,B+,85,86,Sneha Nair,9461705460,Delhi,New Delhi
+ST000161,S00040,Arjun Sharma,Female,11,10,27,O+,93,38,Rohan Jadhav,9876972077,Maharashtra,Pune
+ST000162,S00004,Vivaan Joshi,Male,7,1,22,B+,73,71,Kavya Patel,9047830296,Delhi,New Delhi
+ST000163,S00035,Sneha Patel,Male,13,11,25,AB+,88,21,Aditya Singh,9212742521,Tamil Nadu,Chennai
+ST000164,S00061,Sneha Kulkarni,Female,18,10,60,A+,73,45,Sneha Das,9041276925,Delhi,New Delhi
+ST000165,S00024,Rohan Kulkarni,Female,13,2,56,B+,89,33,Rohan Patel,9288351078,Karnataka,Bengaluru
+ST000166,S00069,Aisha Patel,Female,7,4,28,AB+,75,25,Neha Khan,9163779277,Maharashtra,Pune
+ST000167,S00017,Ishaan Patel,Female,12,3,34,B+,100,94,Priya Jadhav,9026126612,Delhi,New Delhi
+ST000168,S00014,Neha Nair,Female,16,11,43,A+,91,51,Neha Kulkarni,9538935781,Gujarat,Ahmedabad
+ST000169,S00064,Aarav Nair,Female,16,2,53,A+,80,92,Diya Patel,9480556553,Tamil Nadu,Chennai
+ST000170,S00043,Sneha Nair,Female,6,1,3,AB+,87,54,Neha Jadhav,9153539331,Maharashtra,Pune
+ST000171,S00082,Sai Das,Male,15,2,50,AB+,90,60,Sneha Khan,9123402153,Gujarat,Ahmedabad
+ST000172,S00056,Aditya Khan,Female,8,4,50,B+,82,84,Sneha Jadhav,9934273441,Karnataka,Bengaluru
+ST000173,S00044,Rohan Das,Male,18,2,15,AB+,82,26,Aditya Patel,9682408648,Delhi,New Delhi
+ST000174,S00079,Sneha Kulkarni,Male,10,2,30,A+,77,64,Kavya Khan,9443573566,Tamil Nadu,Chennai
+ST000175,S00096,Sai Das,Male,18,7,39,AB+,97,34,Aditya Khan,9416120428,Gujarat,Ahmedabad
+ST000176,S00019,Rohan Khan,Male,15,12,50,A+,89,77,Vivaan Das,9497893827,Delhi,New Delhi
+ST000177,S00024,Aarav Das,Female,18,1,53,O+,87,65,Kavya Nair,9999763678,Maharashtra,Pune
+ST000178,S00083,Ananya Sharma,Female,14,5,18,AB+,90,22,Diya Kulkarni,9645574191,Delhi,New Delhi
+ST000179,S00083,Sai Joshi,Female,8,11,45,B+,89,54,Rahul Nair,9618814208,Tamil Nadu,Chennai
+ST000180,S00006,Rahul Reddy,Male,14,2,9,A+,94,93,Ishaan Das,9089399577,Karnataka,Bengaluru
+ST000181,S00053,Ishaan Singh,Female,8,12,44,B+,76,64,Aisha Sharma,9818630443,Tamil Nadu,Chennai
+ST000182,S00031,Kavya Das,Male,8,2,59,A+,97,89,Priya Kulkarni,9397649974,Gujarat,Ahmedabad
+ST000183,S00025,Aditya Singh,Male,12,11,33,A+,94,69,Ananya Patel,9479968288,Gujarat,Ahmedabad
+ST000184,S00071,Aditya Joshi,Female,9,2,20,O+,95,59,Ananya Das,9348060931,Karnataka,Bengaluru
+ST000185,S00053,Kavya Reddy,Female,16,2,5,A+,70,65,Aditya Kulkarni,9390890971,Delhi,New Delhi
+ST000186,S00003,Arjun Sharma,Female,7,2,22,AB+,99,40,Arjun Jadhav,9296971452,Gujarat,Ahmedabad
+ST000187,S00030,Rahul Kulkarni,Male,17,1,42,AB+,83,70,Sai Kulkarni,9359129542,Karnataka,Bengaluru
+ST000188,S00046,Rahul Patel,Female,11,12,48,O+,93,60,Kavya Patel,9557505067,Gujarat,Ahmedabad
+ST000189,S00027,Arjun Joshi,Male,16,2,51,AB+,81,38,Diya Nair,9302025655,Karnataka,Bengaluru
+ST000190,S00033,Ishaan Singh,Male,17,2,20,A+,94,83,Kavya Khan,9798220134,Tamil Nadu,Chennai
+ST000191,S00035,Rohan Reddy,Female,14,4,38,AB+,90,39,Aisha Nair,9072524315,Tamil Nadu,Chennai
+ST000192,S00069,Ananya Singh,Female,18,12,14,O+,78,95,Rohan Nair,9823311555,Maharashtra,Pune
+ST000193,S00070,Aisha Reddy,Female,12,10,56,A+,81,92,Kavya Sharma,9503762041,Tamil Nadu,Chennai
+ST000194,S00009,Ishaan Reddy,Female,18,2,22,B+,90,64,Rohan Kulkarni,9416726808,Delhi,New Delhi
+ST000195,S00072,Sai Jadhav,Female,8,7,46,A+,74,23,Vivaan Joshi,9216741029,Gujarat,Ahmedabad
+ST000196,S00089,Diya Das,Female,11,4,23,A+,74,67,Diya Jadhav,9723178738,Karnataka,Bengaluru
+ST000197,S00079,Aditya Nair,Female,13,7,28,AB+,97,43,Aisha Patel,9473895432,Delhi,New Delhi
+ST000198,S00077,Priya Singh,Male,16,9,32,O+,99,39,Ananya Joshi,9560208556,Maharashtra,Pune
+ST000199,S00089,Priya Nair,Male,10,3,25,B+,82,81,Vivaan Kulkarni,9380702250,Gujarat,Ahmedabad
+ST000200,S00027,Aditya Kulkarni,Male,6,6,10,AB+,98,37,Neha Khan,9861838545,Gujarat,Ahmedabad
+ST000201,S00001,Sai Nair,Male,11,4,16,O+,80,73,Rahul Nair,9689709679,Gujarat,Ahmedabad
+ST000202,S00020,Neha Singh,Female,12,4,57,A+,74,64,Priya Khan,9194190541,Gujarat,Ahmedabad
+ST000203,S00042,Arjun Patel,Male,14,8,23,B+,97,87,Aditya Kulkarni,9864432799,Maharashtra,Pune
+ST000204,S00002,Sneha Kulkarni,Male,12,5,17,B+,90,26,Kavya Reddy,9881151779,Delhi,New Delhi
+ST000205,S00060,Ananya Khan,Female,17,11,59,A+,85,69,Sneha Joshi,9768817602,Tamil Nadu,Chennai
+ST000206,S00076,Rahul Singh,Male,16,1,6,A+,82,95,Priya Sharma,9292184050,Karnataka,Bengaluru
+ST000207,S00014,Ananya Jadhav,Male,15,8,58,B+,89,37,Diya Jadhav,9390248081,Gujarat,Ahmedabad
+ST000208,S00051,Vivaan Singh,Female,6,6,27,O+,87,26,Rahul Jadhav,9750968877,Tamil Nadu,Chennai
+ST000209,S00013,Sneha Kulkarni,Female,6,8,44,O+,96,73,Sai Khan,9596762800,Delhi,New Delhi
+ST000210,S00084,Sai Kulkarni,Female,14,12,20,AB+,94,42,Rahul Jadhav,9391688183,Karnataka,Bengaluru
+ST000211,S00046,Ishaan Jadhav,Female,15,2,35,B+,79,33,Rohan Joshi,9166889236,Delhi,New Delhi
+ST000212,S00070,Arjun Patel,Male,13,2,30,AB+,87,55,Priya Das,9712838956,Delhi,New Delhi
+ST000213,S00004,Diya Khan,Male,8,4,28,AB+,82,67,Ananya Kulkarni,9174009651,Gujarat,Ahmedabad
+ST000214,S00025,Sai Nair,Female,14,12,39,B+,71,81,Kavya Patel,9376691275,Karnataka,Bengaluru
+ST000215,S00058,Ananya Singh,Male,9,7,30,O+,85,41,Aarav Kulkarni,9950962975,Delhi,New Delhi
+ST000216,S00037,Arjun Sharma,Male,7,3,16,O+,80,53,Ishaan Jadhav,9464413799,Tamil Nadu,Chennai
+ST000217,S00033,Kavya Sharma,Male,9,4,24,A+,80,80,Aarav Singh,9584482205,Karnataka,Bengaluru
+ST000218,S00029,Rohan Joshi,Female,13,11,34,O+,95,33,Diya Jadhav,9629774807,Karnataka,Bengaluru
+ST000219,S00034,Ananya Nair,Female,6,2,29,B+,74,30,Vivaan Nair,9135260386,Delhi,New Delhi
+ST000220,S00069,Kavya Patel,Male,18,11,35,AB+,100,41,Kavya Kulkarni,9230145707,Delhi,New Delhi
+ST000221,S00008,Ishaan Sharma,Female,15,11,18,A+,88,99,Aditya Kulkarni,9825759681,Delhi,New Delhi
+ST000222,S00078,Neha Nair,Female,13,10,2,B+,94,61,Arjun Kulkarni,9203031583,Tamil Nadu,Chennai
+ST000223,S00011,Rahul Nair,Male,8,4,26,AB+,83,92,Vivaan Das,9665066732,Gujarat,Ahmedabad
+ST000224,S00001,Neha Singh,Female,15,6,55,O+,85,31,Rohan Das,9576728504,Gujarat,Ahmedabad
+ST000225,S00005,Ishaan Kulkarni,Female,14,5,5,O+,77,68,Vivaan Patel,9132509656,Tamil Nadu,Chennai
+ST000226,S00060,Arjun Singh,Male,17,6,43,O+,75,50,Neha Khan,9868404381,Karnataka,Bengaluru
+ST000227,S00086,Sai Sharma,Male,7,6,8,AB+,91,63,Sai Singh,9695076785,Karnataka,Bengaluru
+ST000228,S00091,Aditya Khan,Female,6,5,6,B+,86,44,Kavya Kulkarni,9077179086,Tamil Nadu,Chennai
+ST000229,S00012,Aisha Jadhav,Male,9,1,54,A+,93,61,Aarav Singh,9923703553,Karnataka,Bengaluru
+ST000230,S00026,Rohan Patel,Female,14,5,28,AB+,95,80,Ananya Khan,9287573488,Delhi,New Delhi
+ST000231,S00004,Sneha Joshi,Male,9,1,19,AB+,83,60,Aditya Nair,9993025917,Delhi,New Delhi
+ST000232,S00057,Sai Sharma,Male,15,10,21,O+,74,93,Aarav Jadhav,9085318107,Maharashtra,Pune
+ST000233,S00065,Rohan Das,Male,17,6,35,O+,70,51,Ishaan Singh,9072044208,Karnataka,Bengaluru
+ST000234,S00026,Diya Kulkarni,Male,7,2,50,A+,83,64,Arjun Kulkarni,9978395063,Tamil Nadu,Chennai
+ST000235,S00021,Rahul Reddy,Female,9,9,17,A+,89,83,Ananya Singh,9568907675,Karnataka,Bengaluru
+ST000236,S00013,Diya Das,Female,15,7,1,AB+,99,87,Rohan Reddy,9218159972,Gujarat,Ahmedabad
+ST000237,S00042,Rohan Singh,Male,13,12,59,B+,90,22,Ananya Kulkarni,9041654383,Maharashtra,Pune
+ST000238,S00037,Diya Jadhav,Male,9,2,36,A+,90,37,Rohan Joshi,9740427876,Delhi,New Delhi
+ST000239,S00032,Arjun Reddy,Male,18,4,22,O+,86,43,Diya Nair,9306302843,Karnataka,Bengaluru
+ST000240,S00069,Aditya Das,Female,14,11,14,A+,85,89,Ananya Reddy,9573455542,Maharashtra,Pune
+ST000241,S00065,Arjun Reddy,Female,9,3,38,B+,79,64,Sai Nair,9360197701,Maharashtra,Pune
+ST000242,S00096,Vivaan Nair,Male,15,5,40,B+,87,36,Diya Das,9615028127,Gujarat,Ahmedabad
+ST000243,S00037,Vivaan Singh,Male,8,2,42,B+,81,68,Ananya Jadhav,9116347759,Tamil Nadu,Chennai
+ST000244,S00083,Arjun Sharma,Female,12,1,53,AB+,97,69,Ishaan Reddy,9605732523,Tamil Nadu,Chennai
+ST000245,S00012,Rahul Khan,Female,12,11,14,A+,78,22,Ananya Singh,9128743334,Maharashtra,Pune
+ST000246,S00052,Aisha Reddy,Male,8,12,56,B+,74,78,Vivaan Joshi,9990523593,Maharashtra,Pune
+ST000247,S00050,Diya Singh,Male,7,2,31,O+,86,62,Aditya Singh,9245570817,Maharashtra,Pune
+ST000248,S00091,Ishaan Kulkarni,Female,7,1,16,A+,87,44,Arjun Singh,9352785310,Tamil Nadu,Chennai
+ST000249,S00005,Ishaan Sharma,Female,10,11,22,O+,84,38,Ananya Reddy,9070007308,Karnataka,Bengaluru
+ST000250,S00094,Arjun Sharma,Male,11,2,17,A+,83,26,Rahul Nair,9171921853,Maharashtra,Pune
+ST000251,S00022,Rahul Nair,Female,17,12,55,AB+,81,53,Priya Das,9823198603,Maharashtra,Pune
+ST000252,S00042,Rohan Khan,Male,7,8,21,O+,80,87,Vivaan Sharma,9195025807,Karnataka,Bengaluru
+ST000253,S00081,Rohan Jadhav,Male,18,10,25,A+,76,73,Arjun Jadhav,9334664007,Tamil Nadu,Chennai
+ST000254,S00095,Ananya Khan,Female,13,12,43,AB+,82,29,Kavya Das,9678219878,Karnataka,Bengaluru
+ST000255,S00015,Vivaan Nair,Male,18,1,47,B+,91,34,Neha Nair,9625118045,Maharashtra,Pune
+ST000256,S00089,Aarav Jadhav,Female,16,2,50,B+,83,71,Sai Das,9992172102,Maharashtra,Pune
+ST000257,S00062,Ishaan Sharma,Female,14,1,58,B+,71,90,Sneha Sharma,9003023940,Gujarat,Ahmedabad
+ST000258,S00020,Sai Khan,Male,17,6,47,A+,99,39,Neha Sharma,9975501290,Maharashtra,Pune
+ST000259,S00025,Vivaan Kulkarni,Female,6,9,22,AB+,97,32,Aditya Joshi,9801046542,Delhi,New Delhi
+ST000260,S00061,Aditya Das,Male,15,8,6,B+,85,93,Sneha Nair,9733159265,Delhi,New Delhi
+ST000261,S00045,Vivaan Singh,Male,14,1,57,A+,94,97,Aarav Reddy,9082411341,Karnataka,Bengaluru
+ST000262,S00032,Aditya Singh,Male,10,10,46,O+,93,57,Sneha Das,9790917245,Maharashtra,Pune
+ST000263,S00037,Ananya Kulkarni,Male,17,7,5,O+,78,33,Arjun Das,9145426163,Gujarat,Ahmedabad
+ST000264,S00021,Diya Kulkarni,Male,9,12,45,B+,76,41,Kavya Sharma,9258882230,Maharashtra,Pune
+ST000265,S00078,Ananya Singh,Female,14,11,10,A+,92,52,Kavya Patel,9122437364,Maharashtra,Pune
+ST000266,S00007,Sneha Das,Male,11,8,55,O+,92,44,Priya Joshi,9381330796,Tamil Nadu,Chennai
+ST000267,S00021,Vivaan Joshi,Male,16,2,41,AB+,70,51,Vivaan Sharma,9093393223,Delhi,New Delhi
+ST000268,S00086,Aditya Sharma,Female,18,6,32,O+,91,47,Rohan Das,9175213056,Maharashtra,Pune
+ST000269,S00093,Sneha Reddy,Female,8,9,11,A+,90,61,Ananya Nair,9383060394,Maharashtra,Pune
+ST000270,S00019,Diya Sharma,Female,15,5,3,O+,89,66,Aisha Patel,9801117456,Delhi,New Delhi
+ST000271,S00029,Sai Joshi,Male,16,7,5,AB+,95,83,Rahul Kulkarni,9162424096,Maharashtra,Pune
+ST000272,S00088,Priya Joshi,Female,15,1,50,B+,73,68,Aditya Singh,9453091174,Gujarat,Ahmedabad
+ST000273,S00094,Ishaan Patel,Male,7,2,24,B+,77,39,Ananya Singh,9926438486,Tamil Nadu,Chennai
+ST000274,S00084,Priya Jadhav,Female,6,11,58,AB+,84,23,Aisha Nair,9069080930,Delhi,New Delhi
+ST000275,S00039,Aditya Nair,Female,15,3,49,AB+,73,53,Rohan Jadhav,9161507345,Delhi,New Delhi
+ST000276,S00007,Neha Patel,Male,8,4,56,A+,91,64,Aarav Khan,9595511986,Maharashtra,Pune
+ST000277,S00013,Aditya Singh,Male,16,1,50,B+,73,69,Arjun Reddy,9723092184,Karnataka,Bengaluru
+ST000278,S00042,Rohan Khan,Female,15,5,26,B+,79,65,Aditya Kulkarni,9730922017,Delhi,New Delhi
+ST000279,S00011,Rohan Das,Female,14,11,44,AB+,73,43,Aarav Singh,9618662015,Gujarat,Ahmedabad
+ST000280,S00002,Ishaan Kulkarni,Female,14,1,43,AB+,96,29,Sneha Kulkarni,9253718455,Gujarat,Ahmedabad
+ST000281,S00042,Arjun Jadhav,Male,18,2,35,AB+,77,62,Diya Reddy,9890293771,Delhi,New Delhi
+ST000282,S00068,Diya Reddy,Female,7,1,40,A+,91,91,Aditya Khan,9445752548,Maharashtra,Pune
+ST000283,S00010,Priya Nair,Male,8,7,18,A+,79,69,Aditya Nair,9640948686,Tamil Nadu,Chennai
+ST000284,S00057,Ishaan Patel,Male,10,3,28,B+,70,45,Vivaan Nair,9840694777,Tamil Nadu,Chennai
+ST000285,S00093,Priya Khan,Male,7,1,56,AB+,76,76,Sai Sharma,9047149765,Karnataka,Bengaluru
+ST000286,S00035,Sai Khan,Female,16,11,10,A+,86,66,Ananya Jadhav,9923219383,Delhi,New Delhi
+ST000287,S00052,Aarav Patel,Male,11,5,54,O+,88,22,Aisha Joshi,9524246238,Karnataka,Bengaluru
+ST000288,S00079,Sneha Jadhav,Female,11,2,45,AB+,90,54,Aisha Sharma,9736731002,Maharashtra,Pune
+ST000289,S00002,Rohan Kulkarni,Female,15,9,1,O+,75,62,Kavya Nair,9591475186,Delhi,New Delhi
+ST000290,S00072,Ananya Sharma,Female,13,3,16,O+,97,77,Vivaan Reddy,9740750637,Delhi,New Delhi
+ST000291,S00083,Priya Jadhav,Female,14,3,15,B+,87,75,Diya Joshi,9864711008,Tamil Nadu,Chennai
+ST000292,S00012,Ishaan Reddy,Female,15,5,27,AB+,100,32,Kavya Das,9813336408,Karnataka,Bengaluru
+ST000293,S00002,Aditya Joshi,Male,10,2,15,A+,85,67,Ishaan Joshi,9238220978,Maharashtra,Pune
+ST000294,S00084,Aisha Singh,Female,14,6,23,O+,94,26,Aarav Joshi,9933305632,Tamil Nadu,Chennai
+ST000295,S00022,Arjun Das,Male,12,8,29,B+,74,35,Kavya Das,9766284003,Maharashtra,Pune
+ST000296,S00006,Arjun Reddy,Female,17,8,44,A+,93,92,Rahul Khan,9833871514,Delhi,New Delhi
+ST000297,S00005,Vivaan Nair,Male,13,11,41,B+,83,30,Ishaan Sharma,9769909576,Maharashtra,Pune
+ST000298,S00053,Sneha Sharma,Female,8,7,17,B+,84,97,Neha Khan,9314582637,Gujarat,Ahmedabad
+ST000299,S00026,Aditya Sharma,Female,6,6,41,B+,90,24,Diya Das,9768211118,Delhi,New Delhi
+ST000300,S00037,Ishaan Jadhav,Female,12,2,16,B+,72,60,Aisha Singh,9023275673,Tamil Nadu,Chennai
+ST000301,S00050,Diya Reddy,Female,14,2,12,O+,96,97,Vivaan Jadhav,9234725515,Delhi,New Delhi
+ST000302,S00049,Ishaan Sharma,Male,10,2,28,B+,94,47,Kavya Singh,9350472458,Maharashtra,Pune
+ST000303,S00066,Aditya Singh,Female,8,12,36,O+,96,75,Rohan Khan,9322686407,Karnataka,Bengaluru
+ST000304,S00067,Aditya Jadhav,Female,9,6,18,A+,85,75,Neha Singh,9460689429,Tamil Nadu,Chennai
+ST000305,S00099,Rohan Khan,Female,11,11,55,O+,75,72,Sneha Das,9190475987,Delhi,New Delhi
+ST000306,S00051,Ananya Das,Male,8,3,52,A+,76,97,Sai Joshi,9506448323,Delhi,New Delhi
+ST000307,S00040,Rahul Das,Male,6,11,39,AB+,94,58,Rohan Singh,9922350919,Gujarat,Ahmedabad
+ST000308,S00073,Diya Patel,Female,11,2,16,A+,98,24,Kavya Jadhav,9516737508,Karnataka,Bengaluru
+ST000309,S00034,Rohan Khan,Female,18,5,21,B+,81,41,Rohan Joshi,9906514626,Gujarat,Ahmedabad
+ST000310,S00078,Rahul Reddy,Male,17,8,56,AB+,70,34,Arjun Khan,9267952205,Gujarat,Ahmedabad
+ST000311,S00002,Rahul Reddy,Male,18,9,51,AB+,73,22,Vivaan Nair,9421959728,Gujarat,Ahmedabad
+ST000312,S00043,Ishaan Nair,Male,12,10,8,A+,90,62,Sai Jadhav,9632428923,Karnataka,Bengaluru
+ST000313,S00028,Vivaan Nair,Male,9,6,28,O+,94,67,Rohan Jadhav,9843528240,Delhi,New Delhi
+ST000314,S00006,Diya Reddy,Female,8,10,23,AB+,90,35,Aditya Khan,9906102676,Gujarat,Ahmedabad
+ST000315,S00096,Ananya Sharma,Female,6,9,46,O+,74,24,Diya Das,9073369956,Delhi,New Delhi
+ST000316,S00094,Aditya Kulkarni,Female,12,6,49,B+,91,72,Aditya Nair,9875976319,Gujarat,Ahmedabad
+ST000317,S00084,Priya Jadhav,Male,14,6,32,AB+,89,80,Priya Reddy,9696699669,Tamil Nadu,Chennai
+ST000318,S00036,Sai Singh,Female,17,1,60,AB+,97,29,Aarav Sharma,9154637315,Tamil Nadu,Chennai
+ST000319,S00002,Aarav Jadhav,Female,6,9,9,O+,91,37,Ishaan Sharma,9498322599,Maharashtra,Pune
+ST000320,S00067,Sneha Patel,Female,8,12,55,AB+,89,64,Rahul Nair,9365496649,Karnataka,Bengaluru
+ST000321,S00071,Arjun Patel,Female,10,4,23,A+,70,42,Rahul Reddy,9590260863,Maharashtra,Pune
+ST000322,S00080,Aisha Singh,Female,13,12,14,O+,73,20,Priya Nair,9293465225,Tamil Nadu,Chennai
+ST000323,S00056,Priya Jadhav,Male,12,2,45,B+,94,51,Aisha Jadhav,9880076335,Karnataka,Bengaluru
+ST000324,S00086,Diya Khan,Male,14,1,42,O+,82,24,Priya Khan,9611292214,Karnataka,Bengaluru
+ST000325,S00041,Arjun Kulkarni,Male,6,9,6,O+,90,55,Ananya Patel,9142041063,Karnataka,Bengaluru
+ST000326,S00035,Rahul Jadhav,Female,10,12,27,AB+,87,64,Aarav Kulkarni,9996069160,Tamil Nadu,Chennai
+ST000327,S00041,Arjun Nair,Female,13,7,14,A+,96,83,Aisha Kulkarni,9515788815,Tamil Nadu,Chennai
+ST000328,S00021,Sai Jadhav,Male,14,12,4,B+,72,83,Kavya Kulkarni,9260699524,Karnataka,Bengaluru
+ST000329,S00065,Ananya Das,Male,16,2,24,A+,97,46,Rohan Jadhav,9133806872,Gujarat,Ahmedabad
+ST000330,S00038,Aisha Jadhav,Male,17,7,52,O+,92,45,Sneha Reddy,9959942115,Maharashtra,Pune
+ST000331,S00064,Diya Das,Female,17,4,21,O+,71,38,Ishaan Nair,9049763927,Karnataka,Bengaluru
+ST000332,S00003,Arjun Khan,Female,12,1,58,A+,70,53,Rahul Nair,9492909593,Tamil Nadu,Chennai
+ST000333,S00046,Ananya Kulkarni,Female,16,2,51,A+,82,81,Sai Singh,9204042112,Gujarat,Ahmedabad
+ST000334,S00030,Priya Jadhav,Male,8,8,24,A+,96,54,Diya Jadhav,9022294159,Gujarat,Ahmedabad
+ST000335,S00098,Sneha Joshi,Male,13,6,23,B+,87,98,Aarav Joshi,9474195964,Delhi,New Delhi
+ST000336,S00085,Arjun Sharma,Female,16,9,55,AB+,80,75,Aarav Kulkarni,9390129757,Maharashtra,Pune
+ST000337,S00010,Sneha Patel,Male,14,6,33,O+,75,20,Aarav Das,9588829703,Maharashtra,Pune
+ST000338,S00021,Arjun Singh,Male,12,5,25,A+,96,73,Arjun Khan,9767765617,Tamil Nadu,Chennai
+ST000339,S00088,Rohan Patel,Male,7,10,16,B+,77,31,Neha Patel,9998980051,Tamil Nadu,Chennai
+ST000340,S00041,Neha Nair,Male,15,5,24,O+,87,76,Aisha Singh,9589001630,Gujarat,Ahmedabad
+ST000341,S00081,Vivaan Kulkarni,Female,6,2,55,AB+,79,26,Vivaan Jadhav,9784157314,Maharashtra,Pune
+ST000342,S00100,Vivaan Khan,Male,15,12,13,AB+,97,83,Kavya Reddy,9486089730,Karnataka,Bengaluru
+ST000343,S00027,Arjun Nair,Male,12,6,51,AB+,83,27,Aarav Jadhav,9526247830,Delhi,New Delhi
+ST000344,S00091,Ananya Kulkarni,Male,11,7,22,O+,70,83,Diya Singh,9636517177,Delhi,New Delhi
+ST000345,S00080,Kavya Jadhav,Male,18,3,8,B+,88,86,Arjun Kulkarni,9229513188,Gujarat,Ahmedabad
+ST000346,S00020,Arjun Kulkarni,Female,11,11,38,A+,83,39,Priya Das,9383627213,Maharashtra,Pune
+ST000347,S00097,Ananya Jadhav,Female,10,10,13,B+,85,60,Sai Patel,9791676556,Tamil Nadu,Chennai
+ST000348,S00082,Ananya Das,Female,7,7,17,B+,83,55,Ananya Sharma,9303326466,Gujarat,Ahmedabad
+ST000349,S00069,Ananya Jadhav,Male,6,6,4,O+,93,22,Diya Nair,9469056460,Karnataka,Bengaluru
+ST000350,S00026,Sai Jadhav,Male,17,12,12,O+,73,32,Rahul Das,9273192126,Tamil Nadu,Chennai
+ST000351,S00086,Sai Reddy,Female,16,2,33,B+,80,47,Ishaan Khan,9152628345,Karnataka,Bengaluru
+ST000352,S00094,Kavya Das,Male,18,5,36,AB+,83,21,Diya Kulkarni,9854895856,Maharashtra,Pune
+ST000353,S00060,Ananya Patel,Female,12,6,37,A+,96,79,Aarav Das,9941014406,Gujarat,Ahmedabad
+ST000354,S00010,Sneha Nair,Female,15,2,51,AB+,88,84,Aisha Singh,9062087028,Maharashtra,Pune
+ST000355,S00054,Rahul Reddy,Male,13,6,14,B+,72,52,Vivaan Joshi,9440548223,Karnataka,Bengaluru
+ST000356,S00063,Rohan Reddy,Male,12,10,32,AB+,98,90,Neha Jadhav,9666016202,Karnataka,Bengaluru
+ST000357,S00018,Priya Kulkarni,Female,7,7,12,O+,84,76,Neha Khan,9095319736,Tamil Nadu,Chennai
+ST000358,S00014,Diya Jadhav,Male,15,2,48,B+,74,88,Ishaan Das,9855233867,Delhi,New Delhi
+ST000359,S00041,Vivaan Sharma,Female,17,6,11,B+,85,89,Sai Nair,9375156835,Tamil Nadu,Chennai
+ST000360,S00051,Priya Jadhav,Male,15,4,26,B+,70,55,Aditya Sharma,9728483153,Karnataka,Bengaluru
+ST000361,S00037,Arjun Reddy,Male,9,1,29,O+,71,43,Kavya Joshi,9698938702,Delhi,New Delhi
+ST000362,S00015,Rohan Reddy,Male,14,7,50,A+,86,78,Priya Joshi,9767100923,Delhi,New Delhi
+ST000363,S00099,Rohan Nair,Male,6,11,33,B+,99,34,Rahul Kulkarni,9200628717,Karnataka,Bengaluru
+ST000364,S00027,Rahul Singh,Female,10,1,11,A+,71,54,Neha Joshi,9188083136,Gujarat,Ahmedabad
+ST000365,S00006,Aditya Khan,Female,16,6,50,A+,95,30,Aarav Sharma,9304136934,Gujarat,Ahmedabad
+ST000366,S00097,Rohan Patel,Male,18,5,27,AB+,76,76,Sneha Das,9735017233,Karnataka,Bengaluru
+ST000367,S00021,Rohan Sharma,Male,8,10,59,A+,85,65,Aarav Joshi,9956752667,Karnataka,Bengaluru
+ST000368,S00049,Priya Sharma,Female,12,6,51,B+,76,44,Aditya Nair,9298428044,Karnataka,Bengaluru
+ST000369,S00092,Rahul Patel,Female,13,3,48,B+,80,69,Rohan Khan,9905575692,Karnataka,Bengaluru
+ST000370,S00086,Kavya Singh,Male,15,4,19,A+,87,88,Aarav Patel,9410680668,Tamil Nadu,Chennai
+ST000371,S00045,Neha Das,Male,10,7,25,B+,82,97,Aarav Nair,9323580767,Maharashtra,Pune
+ST000372,S00098,Sneha Singh,Male,10,5,52,AB+,74,75,Aditya Das,9844049870,Karnataka,Bengaluru
+ST000373,S00082,Aisha Khan,Female,7,1,13,AB+,72,31,Neha Jadhav,9359923202,Gujarat,Ahmedabad
+ST000374,S00081,Ishaan Das,Female,15,5,38,B+,92,47,Kavya Jadhav,9977201489,Tamil Nadu,Chennai
+ST000375,S00069,Rahul Das,Male,6,6,13,O+,78,25,Ishaan Singh,9250578871,Tamil Nadu,Chennai
+ST000376,S00030,Rohan Kulkarni,Male,15,4,27,O+,94,25,Ananya Khan,9646697522,Delhi,New Delhi
+ST000377,S00031,Arjun Singh,Female,13,6,55,O+,83,90,Ananya Joshi,9617934192,Tamil Nadu,Chennai
+ST000378,S00087,Sneha Khan,Male,14,10,9,B+,73,52,Ananya Das,9454019086,Karnataka,Bengaluru
+ST000379,S00042,Aisha Joshi,Female,15,12,56,AB+,94,93,Neha Sharma,9247875169,Tamil Nadu,Chennai
+ST000380,S00014,Rahul Singh,Female,11,3,55,B+,94,96,Aditya Jadhav,9805292879,Maharashtra,Pune
+ST000381,S00018,Vivaan Kulkarni,Male,9,6,12,A+,97,56,Rahul Das,9128398521,Karnataka,Bengaluru
+ST000382,S00078,Diya Patel,Female,10,12,49,O+,89,99,Aisha Patel,9990976931,Gujarat,Ahmedabad
+ST000383,S00020,Kavya Kulkarni,Male,6,12,11,AB+,73,46,Sneha Jadhav,9780423704,Maharashtra,Pune
+ST000384,S00016,Priya Das,Female,13,2,18,AB+,92,68,Rohan Jadhav,9382905950,Karnataka,Bengaluru
+ST000385,S00050,Priya Sharma,Female,15,11,58,O+,77,45,Rohan Jadhav,9492784369,Maharashtra,Pune
+ST000386,S00060,Sneha Jadhav,Female,18,11,9,AB+,71,81,Aisha Sharma,9825291461,Tamil Nadu,Chennai
+ST000387,S00068,Arjun Nair,Female,13,3,17,AB+,87,36,Neha Khan,9067518055,Tamil Nadu,Chennai
+ST000388,S00035,Vivaan Patel,Female,6,12,16,AB+,93,34,Rahul Nair,9935774814,Karnataka,Bengaluru
+ST000389,S00082,Aditya Das,Male,12,8,41,B+,93,82,Neha Khan,9357556653,Gujarat,Ahmedabad
+ST000390,S00014,Rohan Joshi,Female,13,1,15,O+,94,20,Aditya Das,9114794868,Tamil Nadu,Chennai
+ST000391,S00011,Ananya Reddy,Male,13,4,42,O+,72,75,Arjun Singh,9829576680,Maharashtra,Pune
+ST000392,S00044,Priya Singh,Male,16,3,26,A+,94,62,Sai Kulkarni,9095007274,Gujarat,Ahmedabad
+ST000393,S00073,Priya Nair,Male,13,7,40,O+,89,70,Sai Nair,9851567645,Tamil Nadu,Chennai
+ST000394,S00074,Sneha Patel,Male,14,9,11,A+,80,22,Sai Sharma,9789356808,Tamil Nadu,Chennai
+ST000395,S00042,Aisha Sharma,Female,9,6,7,AB+,77,57,Neha Reddy,9260574451,Karnataka,Bengaluru
+ST000396,S00025,Aisha Patel,Female,15,7,56,A+,82,33,Rohan Joshi,9091838545,Maharashtra,Pune
+ST000397,S00028,Vivaan Khan,Male,10,10,19,AB+,90,59,Neha Kulkarni,9809001731,Delhi,New Delhi
+ST000398,S00077,Rahul Patel,Male,10,11,41,B+,97,46,Priya Sharma,9854659414,Delhi,New Delhi
+ST000399,S00041,Ishaan Sharma,Male,10,8,50,AB+,100,64,Aarav Sharma,9616857079,Gujarat,Ahmedabad
+ST000400,S00090,Rohan Patel,Male,10,9,38,O+,71,26,Aditya Das,9161627597,Maharashtra,Pune
+ST000401,S00068,Diya Kulkarni,Female,17,5,14,O+,99,85,Diya Sharma,9383525833,Maharashtra,Pune
+ST000402,S00003,Neha Sharma,Female,16,7,24,A+,97,65,Aarav Singh,9008398917,Gujarat,Ahmedabad
+ST000403,S00007,Vivaan Sharma,Male,13,7,31,AB+,85,100,Priya Joshi,9577964270,Gujarat,Ahmedabad
+ST000404,S00017,Aisha Patel,Male,8,1,20,O+,99,77,Sai Kulkarni,9376277949,Maharashtra,Pune
+ST000405,S00042,Rahul Jadhav,Male,13,8,6,A+,96,68,Ananya Jadhav,9233130450,Maharashtra,Pune
+ST000406,S00090,Diya Kulkarni,Male,10,12,28,A+,74,45,Vivaan Sharma,9728516992,Tamil Nadu,Chennai
+ST000407,S00094,Rahul Reddy,Male,13,4,15,A+,72,99,Aarav Das,9009426230,Gujarat,Ahmedabad
+ST000408,S00099,Sai Khan,Female,6,2,11,A+,99,57,Ishaan Patel,9317495113,Maharashtra,Pune
+ST000409,S00013,Sai Singh,Female,18,10,16,A+,78,90,Ishaan Das,9304299958,Karnataka,Bengaluru
+ST000410,S00006,Vivaan Kulkarni,Male,7,2,49,B+,78,61,Vivaan Patel,9788060230,Gujarat,Ahmedabad
+ST000411,S00084,Arjun Sharma,Female,7,10,7,AB+,80,22,Vivaan Reddy,9150434472,Tamil Nadu,Chennai
+ST000412,S00026,Aarav Jadhav,Male,12,9,30,O+,88,39,Rohan Jadhav,9499757953,Karnataka,Bengaluru
+ST000413,S00031,Rohan Das,Male,8,7,50,B+,100,53,Neha Das,9180600804,Delhi,New Delhi
+ST000414,S00007,Arjun Singh,Male,14,6,9,B+,96,30,Sai Patel,9565307442,Karnataka,Bengaluru
+ST000415,S00064,Aarav Patel,Female,16,3,32,B+,95,46,Ananya Patel,9758270208,Gujarat,Ahmedabad
+ST000416,S00042,Aarav Joshi,Male,11,5,52,O+,94,38,Aditya Singh,9543130758,Maharashtra,Pune
+ST000417,S00046,Aditya Jadhav,Female,17,10,25,AB+,94,24,Arjun Joshi,9041934764,Maharashtra,Pune
+ST000418,S00026,Sneha Singh,Male,10,9,35,B+,99,45,Arjun Khan,9600771054,Tamil Nadu,Chennai
+ST000419,S00031,Rahul Sharma,Male,7,4,8,O+,95,38,Ishaan Nair,9930631773,Gujarat,Ahmedabad
+ST000420,S00076,Vivaan Patel,Male,11,4,46,O+,75,64,Ishaan Patel,9038453384,Delhi,New Delhi
+ST000421,S00058,Diya Nair,Male,18,5,26,AB+,76,89,Aarav Joshi,9037708491,Tamil Nadu,Chennai
+ST000422,S00017,Aditya Nair,Female,16,4,18,B+,74,96,Aarav Nair,9436690389,Maharashtra,Pune
+ST000423,S00072,Diya Joshi,Male,7,1,23,AB+,94,25,Vivaan Joshi,9450655348,Gujarat,Ahmedabad
+ST000424,S00007,Priya Das,Female,11,9,1,A+,83,64,Neha Nair,9225557335,Gujarat,Ahmedabad
+ST000425,S00064,Rahul Joshi,Male,10,10,10,B+,75,38,Kavya Joshi,9669849659,Gujarat,Ahmedabad
+ST000426,S00024,Aisha Patel,Male,6,5,7,AB+,72,54,Ananya Das,9578398525,Delhi,New Delhi
+ST000427,S00025,Vivaan Jadhav,Female,9,3,20,B+,89,81,Neha Kulkarni,9773833933,Karnataka,Bengaluru
+ST000428,S00093,Kavya Jadhav,Male,10,6,22,A+,91,71,Ishaan Nair,9343141172,Gujarat,Ahmedabad
+ST000429,S00060,Neha Khan,Female,18,8,13,B+,89,74,Kavya Khan,9503510529,Gujarat,Ahmedabad
+ST000430,S00049,Rohan Reddy,Female,7,2,43,B+,96,59,Diya Reddy,9877705260,Gujarat,Ahmedabad
+ST000431,S00098,Arjun Jadhav,Male,9,12,51,O+,87,56,Aarav Jadhav,9477742082,Karnataka,Bengaluru
+ST000432,S00083,Kavya Patel,Female,11,7,36,AB+,99,25,Ananya Reddy,9698562645,Karnataka,Bengaluru
+ST000433,S00100,Sneha Das,Female,17,11,3,AB+,98,72,Rahul Khan,9077033592,Tamil Nadu,Chennai
+ST000434,S00053,Kavya Nair,Male,11,2,24,A+,74,54,Aarav Patel,9752888499,Karnataka,Bengaluru
+ST000435,S00041,Aditya Singh,Male,6,5,15,A+,77,62,Priya Nair,9673039935,Karnataka,Bengaluru
+ST000436,S00061,Arjun Sharma,Female,10,2,33,O+,74,27,Priya Nair,9089146870,Maharashtra,Pune
+ST000437,S00030,Aisha Jadhav,Female,8,2,9,A+,80,51,Sai Reddy,9056857233,Maharashtra,Pune
+ST000438,S00027,Rahul Reddy,Female,6,2,27,AB+,76,75,Ishaan Sharma,9283269002,Gujarat,Ahmedabad
+ST000439,S00011,Ishaan Singh,Female,15,11,41,O+,95,48,Kavya Das,9536010688,Delhi,New Delhi
+ST000440,S00034,Sai Reddy,Female,11,7,47,A+,80,76,Arjun Reddy,9505917168,Delhi,New Delhi
+ST000441,S00044,Priya Das,Male,15,6,48,A+,84,20,Vivaan Kulkarni,9925677193,Maharashtra,Pune
+ST000442,S00086,Kavya Kulkarni,Female,15,4,28,AB+,93,88,Ananya Jadhav,9204454113,Maharashtra,Pune
+ST000443,S00038,Diya Sharma,Female,7,10,50,O+,82,45,Aarav Reddy,9621896806,Gujarat,Ahmedabad
+ST000444,S00081,Vivaan Singh,Female,10,5,51,A+,93,63,Diya Nair,9148573721,Karnataka,Bengaluru
+ST000445,S00098,Sneha Khan,Male,12,11,24,O+,98,72,Neha Joshi,9099338071,Karnataka,Bengaluru
+ST000446,S00070,Arjun Nair,Male,11,2,36,A+,79,75,Sai Joshi,9267054194,Maharashtra,Pune
+ST000447,S00086,Neha Reddy,Male,17,8,25,A+,99,53,Vivaan Khan,9154901996,Maharashtra,Pune
+ST000448,S00031,Sai Singh,Female,8,4,12,B+,87,32,Ishaan Kulkarni,9668280879,Delhi,New Delhi
+ST000449,S00065,Kavya Das,Male,12,2,54,AB+,81,33,Diya Kulkarni,9657989500,Karnataka,Bengaluru
+ST000450,S00092,Priya Patel,Male,9,3,41,O+,80,60,Aisha Patel,9680097912,Gujarat,Ahmedabad
+ST000451,S00062,Vivaan Reddy,Female,13,3,13,O+,76,88,Arjun Patel,9285010309,Delhi,New Delhi
+ST000452,S00053,Kavya Patel,Male,15,2,30,AB+,86,91,Priya Das,9087033334,Maharashtra,Pune
+ST000453,S00074,Sneha Joshi,Female,12,11,44,AB+,90,66,Aisha Jadhav,9895788552,Delhi,New Delhi
+ST000454,S00051,Diya Khan,Male,7,9,58,O+,92,97,Sai Nair,9443350547,Maharashtra,Pune
+ST000455,S00049,Neha Khan,Female,12,8,56,B+,78,95,Neha Reddy,9221903578,Karnataka,Bengaluru
+ST000456,S00073,Kavya Patel,Female,15,8,25,AB+,73,92,Aarav Nair,9106073036,Gujarat,Ahmedabad
+ST000457,S00055,Rahul Das,Male,16,10,20,A+,79,63,Ananya Nair,9751299955,Gujarat,Ahmedabad
+ST000458,S00002,Vivaan Sharma,Male,9,10,20,B+,99,24,Aditya Nair,9033892938,Maharashtra,Pune
+ST000459,S00040,Rahul Jadhav,Male,14,8,46,AB+,94,56,Diya Nair,9399257611,Gujarat,Ahmedabad
+ST000460,S00016,Kavya Kulkarni,Male,18,10,1,O+,72,58,Ananya Singh,9568467859,Delhi,New Delhi
+ST000461,S00064,Rohan Kulkarni,Female,17,2,42,AB+,87,62,Arjun Nair,9970292442,Tamil Nadu,Chennai
+ST000462,S00043,Sai Nair,Male,13,3,44,A+,75,23,Ananya Singh,9424978501,Karnataka,Bengaluru
+ST000463,S00038,Arjun Sharma,Male,8,11,31,B+,94,58,Ishaan Reddy,9048861100,Delhi,New Delhi
+ST000464,S00070,Aarav Sharma,Female,18,1,40,A+,96,79,Vivaan Joshi,9061784618,Maharashtra,Pune
+ST000465,S00060,Sai Singh,Male,18,1,26,O+,75,48,Vivaan Nair,9959248801,Karnataka,Bengaluru
+ST000466,S00066,Rohan Kulkarni,Male,18,12,53,A+,85,35,Neha Reddy,9648778391,Gujarat,Ahmedabad
+ST000467,S00048,Sneha Das,Male,14,4,23,AB+,75,88,Vivaan Kulkarni,9214149589,Karnataka,Bengaluru
+ST000468,S00071,Diya Das,Male,16,12,28,B+,91,72,Sneha Kulkarni,9597091718,Tamil Nadu,Chennai
+ST000469,S00083,Neha Nair,Female,8,10,4,AB+,98,50,Sai Das,9710403975,Karnataka,Bengaluru
+ST000470,S00081,Neha Joshi,Male,10,8,59,O+,78,89,Ishaan Das,9729806497,Gujarat,Ahmedabad
+ST000471,S00094,Aarav Singh,Male,13,4,9,O+,91,91,Priya Das,9620405613,Delhi,New Delhi
+ST000472,S00066,Aditya Khan,Male,7,11,24,B+,77,89,Arjun Khan,9443189657,Maharashtra,Pune
+ST000473,S00059,Neha Jadhav,Female,18,10,14,AB+,75,75,Sai Joshi,9910660457,Delhi,New Delhi
+ST000474,S00026,Vivaan Singh,Male,9,3,49,O+,86,93,Neha Khan,9316198005,Tamil Nadu,Chennai
+ST000475,S00014,Ishaan Sharma,Female,8,2,44,AB+,91,55,Rohan Patel,9757687092,Karnataka,Bengaluru
+ST000476,S00088,Priya Sharma,Male,18,2,45,AB+,79,77,Diya Reddy,9376537686,Karnataka,Bengaluru
+ST000477,S00086,Sai Kulkarni,Female,7,10,41,AB+,76,33,Diya Kulkarni,9234741158,Gujarat,Ahmedabad
+ST000478,S00029,Ananya Nair,Female,7,2,15,A+,91,81,Rohan Kulkarni,9881426215,Gujarat,Ahmedabad
+ST000479,S00088,Ananya Sharma,Male,12,11,48,O+,97,39,Rohan Kulkarni,9406935982,Maharashtra,Pune
+ST000480,S00091,Aarav Nair,Male,13,6,29,AB+,83,94,Kavya Reddy,9198950606,Gujarat,Ahmedabad
+ST000481,S00043,Aditya Kulkarni,Male,8,2,11,AB+,88,51,Aarav Singh,9800970543,Maharashtra,Pune
+ST000482,S00015,Sneha Khan,Male,11,7,34,O+,87,93,Arjun Jadhav,9182209214,Tamil Nadu,Chennai
+ST000483,S00071,Ishaan Patel,Female,6,10,49,AB+,88,47,Sai Jadhav,9026681035,Maharashtra,Pune
+ST000484,S00089,Ananya Reddy,Male,14,10,49,B+,85,80,Ishaan Joshi,9644261029,Karnataka,Bengaluru
+ST000485,S00004,Rahul Das,Female,17,11,32,AB+,71,53,Diya Nair,9230972613,Tamil Nadu,Chennai
+ST000486,S00046,Ananya Kulkarni,Female,8,1,13,AB+,87,95,Rohan Sharma,9076093695,Karnataka,Bengaluru
+ST000487,S00062,Neha Singh,Male,16,9,6,AB+,72,88,Kavya Kulkarni,9698884725,Tamil Nadu,Chennai
+ST000488,S00074,Ishaan Khan,Female,10,9,24,AB+,70,53,Rohan Kulkarni,9704400605,Delhi,New Delhi
+ST000489,S00026,Sneha Khan,Male,17,4,51,A+,95,21,Rahul Nair,9779990781,Delhi,New Delhi
+ST000490,S00088,Aditya Nair,Male,17,5,44,AB+,72,32,Aarav Nair,9278936217,Gujarat,Ahmedabad
+ST000491,S00031,Ananya Singh,Male,6,3,44,O+,71,41,Priya Patel,9044782424,Maharashtra,Pune
+ST000492,S00049,Aditya Kulkarni,Male,12,10,38,B+,74,85,Priya Joshi,9366707387,Gujarat,Ahmedabad
+ST000493,S00014,Aisha Jadhav,Female,8,5,50,B+,99,48,Ishaan Khan,9019056906,Maharashtra,Pune
+ST000494,S00010,Ishaan Das,Female,10,4,42,AB+,78,65,Kavya Kulkarni,9895311680,Tamil Nadu,Chennai
+ST000495,S00004,Rahul Singh,Female,16,7,59,O+,80,63,Sneha Kulkarni,9820683661,Maharashtra,Pune
+ST000496,S00012,Diya Sharma,Female,17,4,60,B+,95,93,Aditya Nair,9562784726,Delhi,New Delhi
+ST000497,S00089,Priya Sharma,Male,16,6,5,A+,78,58,Vivaan Jadhav,9527727161,Gujarat,Ahmedabad
+ST000498,S00072,Aisha Nair,Female,8,9,6,B+,97,59,Sneha Singh,9843782934,Gujarat,Ahmedabad
+ST000499,S00010,Aditya Nair,Male,10,7,7,O+,83,40,Sai Singh,9079427872,Tamil Nadu,Chennai
+ST000500,S00072,Neha Das,Female,13,11,52,A+,84,82,Aarav Das,9565281340,Karnataka,Bengaluru
+ST000501,S00065,Vivaan Sharma,Female,13,5,12,A+,82,77,Kavya Das,9524534490,Tamil Nadu,Chennai
+ST000502,S00013,Arjun Sharma,Female,13,10,13,AB+,89,20,Arjun Khan,9034378401,Maharashtra,Pune
+ST000503,S00044,Aisha Khan,Female,15,12,19,B+,71,44,Neha Reddy,9248409417,Karnataka,Bengaluru
+ST000504,S00013,Vivaan Patel,Female,11,8,53,A+,99,20,Rohan Khan,9685988332,Gujarat,Ahmedabad
+ST000505,S00071,Kavya Jadhav,Male,10,7,49,O+,100,91,Neha Nair,9287145841,Delhi,New Delhi
+ST000506,S00087,Kavya Reddy,Female,14,3,25,AB+,75,66,Aisha Singh,9718492165,Tamil Nadu,Chennai
+ST000507,S00043,Rohan Sharma,Female,12,10,23,A+,95,58,Arjun Nair,9482529309,Karnataka,Bengaluru
+ST000508,S00011,Aditya Nair,Male,7,9,37,B+,70,34,Aisha Kulkarni,9752076280,Delhi,New Delhi
+ST000509,S00022,Kavya Reddy,Female,14,12,49,B+,93,79,Aisha Das,9470427081,Karnataka,Bengaluru
+ST000510,S00072,Aisha Sharma,Female,16,8,5,O+,75,80,Diya Jadhav,9884833587,Maharashtra,Pune
+ST000511,S00096,Arjun Patel,Female,15,9,11,AB+,87,96,Priya Das,9264678823,Delhi,New Delhi
+ST000512,S00046,Kavya Nair,Female,7,5,17,A+,94,75,Rohan Khan,9922942518,Gujarat,Ahmedabad
+ST000513,S00006,Diya Khan,Male,11,6,25,O+,96,35,Sneha Sharma,9055781235,Karnataka,Bengaluru
+ST000514,S00018,Arjun Joshi,Female,15,12,29,A+,75,61,Sai Kulkarni,9115713847,Karnataka,Bengaluru
+ST000515,S00055,Aisha Kulkarni,Male,12,5,20,A+,82,97,Aisha Sharma,9059648443,Delhi,New Delhi
+ST000516,S00017,Aarav Nair,Male,9,8,4,A+,89,89,Vivaan Reddy,9644747301,Gujarat,Ahmedabad
+ST000517,S00018,Rohan Das,Male,16,8,32,O+,88,51,Arjun Joshi,9664604790,Tamil Nadu,Chennai
+ST000518,S00078,Rohan Das,Male,11,1,16,A+,89,74,Sai Jadhav,9796058567,Gujarat,Ahmedabad
+ST000519,S00087,Sneha Khan,Male,8,11,30,AB+,79,62,Ananya Joshi,9107348050,Delhi,New Delhi
+ST000520,S00048,Priya Singh,Male,10,6,14,AB+,92,95,Kavya Jadhav,9949806582,Gujarat,Ahmedabad
+ST000521,S00030,Vivaan Nair,Male,13,7,12,B+,97,35,Ananya Sharma,9351869307,Delhi,New Delhi
+ST000522,S00034,Sai Reddy,Female,12,3,46,AB+,86,71,Arjun Das,9977803039,Delhi,New Delhi
+ST000523,S00017,Kavya Khan,Male,18,6,47,A+,71,75,Sneha Singh,9203780592,Gujarat,Ahmedabad
+ST000524,S00061,Ananya Reddy,Female,15,6,6,A+,95,41,Kavya Reddy,9471179157,Tamil Nadu,Chennai
+ST000525,S00078,Kavya Khan,Male,13,9,43,AB+,72,92,Priya Joshi,9455598440,Karnataka,Bengaluru
+ST000526,S00094,Aisha Singh,Female,12,7,46,O+,97,93,Sai Joshi,9218073236,Tamil Nadu,Chennai
+ST000527,S00078,Rahul Joshi,Female,15,2,28,AB+,94,51,Diya Patel,9123013054,Tamil Nadu,Chennai
+ST000528,S00057,Ananya Das,Male,13,9,14,O+,86,58,Sai Das,9725081820,Gujarat,Ahmedabad
+ST000529,S00089,Sai Reddy,Male,13,10,5,O+,91,22,Aditya Jadhav,9991211402,Tamil Nadu,Chennai
+ST000530,S00065,Aditya Nair,Female,10,3,56,B+,77,63,Kavya Sharma,9959053191,Gujarat,Ahmedabad
+ST000531,S00055,Ananya Khan,Male,7,2,49,A+,83,48,Arjun Kulkarni,9273453659,Karnataka,Bengaluru
+ST000532,S00019,Aarav Kulkarni,Male,12,1,24,AB+,93,96,Kavya Kulkarni,9991158175,Maharashtra,Pune
+ST000533,S00020,Sai Kulkarni,Male,7,9,2,O+,71,100,Diya Singh,9383295578,Karnataka,Bengaluru
+ST000534,S00029,Ishaan Patel,Female,10,7,11,AB+,97,54,Kavya Jadhav,9863051976,Maharashtra,Pune
+ST000535,S00014,Ishaan Singh,Male,11,10,18,O+,95,23,Diya Nair,9614254151,Karnataka,Bengaluru
+ST000536,S00068,Rohan Jadhav,Male,15,5,60,B+,92,62,Ishaan Khan,9941926329,Maharashtra,Pune
+ST000537,S00062,Priya Patel,Female,16,6,56,A+,75,30,Sneha Sharma,9873620441,Gujarat,Ahmedabad
+ST000538,S00030,Ananya Das,Female,8,2,58,AB+,85,44,Diya Khan,9045811087,Tamil Nadu,Chennai
+ST000539,S00070,Aditya Khan,Female,7,4,8,B+,94,48,Priya Khan,9124665809,Tamil Nadu,Chennai
+ST000540,S00093,Aisha Reddy,Male,8,10,17,O+,92,30,Vivaan Das,9949113997,Karnataka,Bengaluru
+ST000541,S00073,Rahul Khan,Male,10,12,51,O+,70,27,Rohan Das,9461395451,Tamil Nadu,Chennai
+ST000542,S00014,Priya Patel,Female,14,12,7,O+,90,55,Sai Joshi,9282177270,Gujarat,Ahmedabad
+ST000543,S00056,Ananya Das,Female,13,6,18,O+,71,31,Sneha Das,9622775248,Gujarat,Ahmedabad
+ST000544,S00065,Priya Nair,Male,10,2,40,B+,74,33,Ishaan Khan,9873212387,Karnataka,Bengaluru
+ST000545,S00092,Sai Nair,Female,18,3,16,AB+,88,44,Priya Nair,9303457646,Gujarat,Ahmedabad
+ST000546,S00029,Neha Das,Male,10,1,23,B+,99,47,Aarav Reddy,9414955931,Gujarat,Ahmedabad
+ST000547,S00074,Ananya Joshi,Female,12,8,35,AB+,74,97,Kavya Jadhav,9323840489,Gujarat,Ahmedabad
+ST000548,S00043,Neha Reddy,Female,17,4,51,AB+,77,23,Aarav Jadhav,9904032300,Delhi,New Delhi
+ST000549,S00015,Rohan Nair,Female,11,7,43,AB+,78,36,Ishaan Kulkarni,9338497101,Karnataka,Bengaluru
+ST000550,S00073,Neha Patel,Male,17,8,1,B+,88,30,Sai Singh,9742267469,Gujarat,Ahmedabad
+ST000551,S00082,Sai Kulkarni,Female,18,2,14,AB+,73,39,Aditya Khan,9084733877,Karnataka,Bengaluru
+ST000552,S00040,Kavya Singh,Male,6,5,58,A+,81,87,Neha Das,9660428736,Karnataka,Bengaluru
+ST000553,S00034,Ishaan Reddy,Female,9,2,21,AB+,94,32,Aarav Sharma,9625527338,Gujarat,Ahmedabad
+ST000554,S00096,Vivaan Joshi,Male,12,3,40,AB+,75,60,Aditya Patel,9672386551,Karnataka,Bengaluru
+ST000555,S00028,Aditya Jadhav,Male,6,6,29,A+,87,36,Rahul Kulkarni,9875970687,Maharashtra,Pune
+ST000556,S00029,Neha Khan,Female,11,12,15,B+,73,41,Rahul Das,9800231791,Tamil Nadu,Chennai
+ST000557,S00025,Sai Khan,Male,9,3,31,AB+,83,82,Neha Sharma,9963095923,Karnataka,Bengaluru
+ST000558,S00024,Ishaan Patel,Female,9,10,52,A+,98,39,Rohan Das,9236377228,Tamil Nadu,Chennai
+ST000559,S00059,Aisha Reddy,Female,8,4,58,O+,77,50,Arjun Singh,9043136957,Gujarat,Ahmedabad
+ST000560,S00020,Aisha Jadhav,Female,6,9,2,B+,96,100,Vivaan Joshi,9733773953,Gujarat,Ahmedabad
+ST000561,S00079,Vivaan Patel,Female,8,10,11,A+,74,59,Aarav Sharma,9686260058,Karnataka,Bengaluru
+ST000562,S00072,Arjun Khan,Female,17,8,20,AB+,89,91,Aditya Patel,9488857687,Maharashtra,Pune
+ST000563,S00087,Rohan Joshi,Female,17,9,41,B+,77,28,Aisha Khan,9044118435,Gujarat,Ahmedabad
+ST000564,S00028,Rohan Joshi,Male,6,7,60,AB+,77,29,Aditya Jadhav,9427377231,Gujarat,Ahmedabad
+ST000565,S00084,Sai Singh,Female,11,11,25,AB+,72,28,Rahul Joshi,9780240701,Karnataka,Bengaluru
+ST000566,S00032,Rahul Das,Female,17,4,23,AB+,80,71,Sneha Nair,9854791722,Karnataka,Bengaluru
+ST000567,S00031,Diya Sharma,Female,16,1,23,A+,87,83,Sai Das,9464205086,Maharashtra,Pune
+ST000568,S00029,Aarav Kulkarni,Male,11,9,31,B+,93,25,Sai Patel,9838462652,Gujarat,Ahmedabad
+ST000569,S00064,Neha Das,Female,7,8,15,AB+,71,65,Sai Joshi,9250197599,Maharashtra,Pune
+ST000570,S00012,Sneha Das,Female,15,6,2,A+,85,93,Kavya Khan,9966941843,Tamil Nadu,Chennai
+ST000571,S00068,Rahul Khan,Female,14,12,30,AB+,97,61,Ananya Patel,9202744899,Karnataka,Bengaluru
+ST000572,S00049,Priya Jadhav,Female,15,6,56,AB+,91,47,Arjun Kulkarni,9957083223,Gujarat,Ahmedabad
+ST000573,S00039,Aisha Joshi,Female,13,10,7,O+,94,86,Priya Sharma,9972471545,Maharashtra,Pune
+ST000574,S00013,Sneha Singh,Female,11,7,7,O+,98,79,Kavya Joshi,9618161017,Gujarat,Ahmedabad
+ST000575,S00054,Aisha Patel,Male,8,4,28,AB+,99,64,Ishaan Das,9203292289,Gujarat,Ahmedabad
+ST000576,S00032,Aisha Patel,Male,12,3,4,O+,74,82,Aditya Reddy,9907829748,Gujarat,Ahmedabad
+ST000577,S00065,Sai Reddy,Female,14,2,35,B+,79,77,Kavya Patel,9971272967,Gujarat,Ahmedabad
+ST000578,S00026,Diya Joshi,Female,15,5,4,A+,92,34,Ishaan Khan,9298244737,Tamil Nadu,Chennai
+ST000579,S00091,Diya Das,Female,9,10,17,B+,82,51,Vivaan Jadhav,9076885612,Gujarat,Ahmedabad
+ST000580,S00081,Rohan Reddy,Male,11,8,27,B+,99,56,Ananya Sharma,9515585288,Tamil Nadu,Chennai
+ST000581,S00094,Ananya Patel,Female,17,1,29,A+,86,97,Rohan Kulkarni,9685934863,Maharashtra,Pune
+ST000582,S00046,Priya Das,Male,18,12,56,AB+,83,35,Sai Patel,9674935204,Maharashtra,Pune
+ST000583,S00001,Vivaan Patel,Male,9,6,54,AB+,94,78,Aditya Joshi,9313899613,Karnataka,Bengaluru
+ST000584,S00063,Rahul Joshi,Female,7,11,12,AB+,78,99,Vivaan Jadhav,9781393776,Delhi,New Delhi
+ST000585,S00012,Rahul Reddy,Female,14,9,44,A+,80,24,Aditya Khan,9647133937,Delhi,New Delhi
+ST000586,S00009,Diya Joshi,Female,9,7,50,O+,87,66,Aarav Patel,9795705064,Tamil Nadu,Chennai
+ST000587,S00070,Arjun Khan,Female,6,6,7,B+,75,61,Aarav Kulkarni,9736941865,Delhi,New Delhi
+ST000588,S00044,Ishaan Reddy,Male,13,12,42,AB+,75,42,Aditya Jadhav,9084116725,Maharashtra,Pune
+ST000589,S00016,Priya Kulkarni,Male,6,2,30,B+,85,60,Ananya Reddy,9515680241,Delhi,New Delhi
+ST000590,S00065,Arjun Das,Female,14,4,24,A+,87,98,Rahul Nair,9655306766,Delhi,New Delhi
+ST000591,S00074,Ishaan Nair,Male,7,12,19,O+,70,30,Rahul Khan,9530052032,Delhi,New Delhi
+ST000592,S00010,Diya Reddy,Female,8,2,31,A+,81,78,Rahul Patel,9775267122,Karnataka,Bengaluru
+ST000593,S00012,Priya Kulkarni,Female,14,9,35,B+,94,57,Arjun Nair,9157383610,Karnataka,Bengaluru
+ST000594,S00062,Sai Jadhav,Female,11,4,47,O+,96,95,Rohan Nair,9625324318,Delhi,New Delhi
+ST000595,S00004,Rahul Joshi,Female,17,4,38,AB+,76,68,Neha Jadhav,9744271148,Delhi,New Delhi
+ST000596,S00056,Arjun Singh,Female,14,5,22,B+,93,21,Aarav Kulkarni,9224751980,Delhi,New Delhi
+ST000597,S00016,Ananya Singh,Female,9,7,34,AB+,97,30,Aarav Das,9604020659,Tamil Nadu,Chennai
+ST000598,S00022,Priya Singh,Female,9,3,34,B+,79,22,Rohan Singh,9905385929,Delhi,New Delhi
+ST000599,S00001,Kavya Khan,Male,18,1,47,B+,89,73,Diya Reddy,9170579746,Karnataka,Bengaluru
+ST000600,S00038,Kavya Jadhav,Female,11,12,39,AB+,72,90,Neha Singh,9388266729,Delhi,New Delhi
+ST000601,S00100,Arjun Joshi,Female,7,1,50,AB+,98,94,Priya Das,9090541995,Karnataka,Bengaluru
+ST000602,S00037,Rahul Joshi,Female,15,2,46,O+,79,75,Ishaan Jadhav,9492979460,Delhi,New Delhi
+ST000603,S00045,Vivaan Khan,Male,8,7,52,B+,93,75,Sneha Reddy,9445103137,Gujarat,Ahmedabad
+ST000604,S00081,Arjun Reddy,Female,7,8,33,AB+,86,59,Ananya Reddy,9909920818,Karnataka,Bengaluru
+ST000605,S00077,Diya Nair,Male,10,2,44,A+,83,90,Rahul Das,9630493513,Karnataka,Bengaluru
+ST000606,S00070,Ananya Das,Male,7,2,29,B+,80,100,Kavya Singh,9185999012,Karnataka,Bengaluru
+ST000607,S00080,Aditya Kulkarni,Male,15,10,14,B+,78,84,Arjun Patel,9580963335,Karnataka,Bengaluru
+ST000608,S00050,Kavya Das,Female,11,8,17,O+,94,63,Aisha Patel,9265606239,Delhi,New Delhi
+ST000609,S00070,Neha Khan,Female,17,3,37,B+,79,76,Neha Sharma,9095485575,Tamil Nadu,Chennai
+ST000610,S00080,Kavya Kulkarni,Female,17,7,27,B+,92,89,Aditya Nair,9665542876,Tamil Nadu,Chennai
+ST000611,S00080,Kavya Joshi,Male,8,9,9,AB+,92,43,Sneha Patel,9669530629,Tamil Nadu,Chennai
+ST000612,S00035,Neha Khan,Female,6,1,19,A+,86,32,Neha Reddy,9112000515,Delhi,New Delhi
+ST000613,S00040,Aditya Joshi,Male,15,11,30,AB+,87,86,Aisha Joshi,9492176852,Karnataka,Bengaluru
+ST000614,S00017,Sai Khan,Female,9,8,43,B+,97,42,Arjun Kulkarni,9459554223,Tamil Nadu,Chennai
+ST000615,S00012,Ananya Nair,Female,16,11,58,O+,95,31,Arjun Jadhav,9681696762,Maharashtra,Pune
+ST000616,S00089,Kavya Joshi,Female,7,7,41,B+,94,36,Vivaan Reddy,9979085701,Gujarat,Ahmedabad
+ST000617,S00094,Vivaan Patel,Male,11,5,10,A+,79,58,Diya Reddy,9478179273,Karnataka,Bengaluru
+ST000618,S00098,Sneha Kulkarni,Female,17,5,33,A+,76,95,Neha Jadhav,9327157683,Tamil Nadu,Chennai
+ST000619,S00045,Sneha Singh,Female,14,12,20,B+,97,59,Ananya Reddy,9275178400,Gujarat,Ahmedabad
+ST000620,S00078,Sneha Nair,Male,10,8,48,B+,100,65,Neha Khan,9227515263,Karnataka,Bengaluru
+ST000621,S00003,Diya Khan,Male,8,9,51,A+,98,63,Kavya Patel,9710087554,Maharashtra,Pune
+ST000622,S00012,Vivaan Singh,Female,9,7,27,A+,74,54,Kavya Singh,9489324730,Maharashtra,Pune
+ST000623,S00024,Sai Joshi,Female,14,10,21,A+,87,30,Sneha Kulkarni,9186822517,Delhi,New Delhi
+ST000624,S00058,Ananya Kulkarni,Male,8,4,49,A+,79,68,Sai Joshi,9597561681,Delhi,New Delhi
+ST000625,S00084,Kavya Patel,Female,14,5,21,O+,76,95,Arjun Jadhav,9153090408,Karnataka,Bengaluru
+ST000626,S00092,Aisha Kulkarni,Male,12,10,59,AB+,71,41,Aditya Kulkarni,9783140273,Gujarat,Ahmedabad
+ST000627,S00079,Aisha Das,Female,13,12,2,B+,88,82,Kavya Kulkarni,9136905548,Tamil Nadu,Chennai
+ST000628,S00024,Sai Nair,Male,7,6,31,O+,99,63,Neha Nair,9844039099,Tamil Nadu,Chennai
+ST000629,S00022,Ananya Joshi,Male,10,3,28,AB+,92,73,Priya Sharma,9598020313,Maharashtra,Pune
+ST000630,S00033,Sai Singh,Male,15,5,38,O+,85,54,Sai Jadhav,9355731642,Karnataka,Bengaluru
+ST000631,S00033,Sai Das,Male,17,5,26,B+,90,47,Rahul Jadhav,9182828459,Delhi,New Delhi
+ST000632,S00088,Aarav Singh,Male,14,12,18,B+,71,74,Ananya Joshi,9373845430,Tamil Nadu,Chennai
+ST000633,S00066,Aditya Nair,Female,8,4,10,AB+,86,98,Ishaan Nair,9751825540,Delhi,New Delhi
+ST000634,S00001,Aarav Sharma,Male,11,10,37,B+,74,86,Priya Reddy,9919059264,Karnataka,Bengaluru
+ST000635,S00047,Diya Patel,Male,16,9,11,A+,75,60,Aditya Patel,9063756498,Gujarat,Ahmedabad
+ST000636,S00034,Sai Reddy,Male,18,7,31,O+,75,25,Kavya Joshi,9540088387,Karnataka,Bengaluru
+ST000637,S00031,Aisha Sharma,Female,11,3,20,B+,92,46,Sneha Kulkarni,9074314972,Delhi,New Delhi
+ST000638,S00080,Arjun Jadhav,Female,15,12,33,A+,80,62,Aisha Jadhav,9665595889,Delhi,New Delhi
+ST000639,S00019,Rohan Kulkarni,Male,13,3,6,AB+,87,69,Aarav Jadhav,9652660961,Gujarat,Ahmedabad
+ST000640,S00030,Kavya Singh,Male,16,8,55,A+,97,56,Rohan Kulkarni,9085193455,Karnataka,Bengaluru
+ST000641,S00033,Ishaan Joshi,Male,17,1,44,B+,88,43,Sneha Jadhav,9983702838,Gujarat,Ahmedabad
+ST000642,S00028,Ananya Sharma,Female,11,1,26,B+,80,61,Vivaan Nair,9517079870,Gujarat,Ahmedabad
+ST000643,S00070,Ishaan Joshi,Female,13,2,50,B+,90,76,Ishaan Patel,9357494698,Gujarat,Ahmedabad
+ST000644,S00007,Arjun Kulkarni,Male,8,12,54,A+,87,81,Aisha Reddy,9974554437,Maharashtra,Pune
+ST000645,S00034,Arjun Das,Male,11,5,20,AB+,92,78,Sneha Patel,9013458621,Karnataka,Bengaluru
+ST000646,S00007,Aisha Khan,Male,16,11,45,O+,81,53,Aditya Khan,9882374989,Tamil Nadu,Chennai
+ST000647,S00020,Rohan Nair,Female,17,10,8,B+,89,46,Aisha Khan,9088491580,Delhi,New Delhi
+ST000648,S00025,Ishaan Patel,Male,13,9,28,AB+,98,84,Sai Das,9221035254,Karnataka,Bengaluru
+ST000649,S00012,Kavya Patel,Male,13,4,35,A+,91,26,Aarav Singh,9645036637,Maharashtra,Pune
+ST000650,S00059,Arjun Nair,Male,12,4,60,O+,83,49,Aarav Jadhav,9090327947,Gujarat,Ahmedabad
+ST000651,S00043,Kavya Reddy,Female,14,3,14,A+,80,66,Sai Sharma,9406432042,Delhi,New Delhi
+ST000652,S00090,Arjun Joshi,Female,10,1,60,B+,73,28,Aisha Singh,9137538283,Maharashtra,Pune
+ST000653,S00018,Rohan Nair,Male,16,8,32,B+,88,57,Priya Kulkarni,9982159622,Tamil Nadu,Chennai
+ST000654,S00015,Ananya Das,Female,17,4,1,AB+,93,22,Aditya Das,9316542861,Delhi,New Delhi
+ST000655,S00051,Vivaan Singh,Male,13,8,24,A+,84,36,Kavya Das,9034604256,Tamil Nadu,Chennai
+ST000656,S00061,Aditya Kulkarni,Male,8,10,36,B+,95,25,Ananya Reddy,9707050799,Gujarat,Ahmedabad
+ST000657,S00061,Rahul Khan,Female,9,9,32,AB+,100,63,Ishaan Singh,9605548769,Delhi,New Delhi
+ST000658,S00040,Ishaan Sharma,Male,11,7,48,O+,70,51,Rahul Kulkarni,9934813743,Gujarat,Ahmedabad
+ST000659,S00031,Ananya Patel,Female,10,12,2,AB+,97,73,Aisha Reddy,9015716157,Tamil Nadu,Chennai
+ST000660,S00063,Rohan Nair,Female,12,11,50,O+,72,68,Rohan Reddy,9779398216,Delhi,New Delhi
+ST000661,S00050,Vivaan Nair,Female,14,9,44,A+,74,99,Aisha Patel,9268853067,Karnataka,Bengaluru
+ST000662,S00075,Aisha Patel,Male,12,11,13,AB+,90,91,Aarav Jadhav,9146357843,Gujarat,Ahmedabad
+ST000663,S00099,Rahul Joshi,Male,15,7,11,A+,73,63,Sneha Jadhav,9349841787,Gujarat,Ahmedabad
+ST000664,S00021,Arjun Reddy,Female,10,10,19,A+,96,87,Sai Singh,9535143507,Karnataka,Bengaluru
+ST000665,S00010,Arjun Joshi,Female,17,1,14,AB+,83,83,Diya Kulkarni,9932117337,Gujarat,Ahmedabad
+ST000666,S00021,Arjun Reddy,Female,6,3,22,A+,97,76,Rahul Nair,9459592217,Tamil Nadu,Chennai
+ST000667,S00024,Diya Reddy,Male,14,11,38,AB+,71,66,Sai Das,9628223119,Maharashtra,Pune
+ST000668,S00063,Rahul Singh,Female,6,7,15,A+,87,24,Ishaan Khan,9595391025,Gujarat,Ahmedabad
+ST000669,S00062,Aditya Das,Male,11,1,5,B+,100,53,Arjun Khan,9501951001,Delhi,New Delhi
+ST000670,S00021,Diya Singh,Male,9,5,4,B+,79,28,Priya Reddy,9010557282,Gujarat,Ahmedabad
+ST000671,S00003,Aisha Jadhav,Female,9,12,3,AB+,90,100,Sneha Khan,9449182819,Karnataka,Bengaluru
+ST000672,S00073,Neha Singh,Female,17,9,55,O+,74,21,Rohan Das,9179708109,Tamil Nadu,Chennai
+ST000673,S00080,Priya Sharma,Male,17,8,11,O+,85,26,Sneha Das,9070049795,Karnataka,Bengaluru
+ST000674,S00021,Neha Singh,Female,13,6,49,AB+,73,68,Rohan Sharma,9039155228,Karnataka,Bengaluru
+ST000675,S00047,Aditya Joshi,Female,18,1,11,B+,92,60,Rahul Reddy,9671736152,Delhi,New Delhi
+ST000676,S00044,Neha Nair,Male,12,11,50,B+,98,33,Diya Reddy,9400742260,Maharashtra,Pune
+ST000677,S00061,Aditya Das,Male,17,3,7,A+,93,45,Kavya Khan,9672272665,Tamil Nadu,Chennai
+ST000678,S00090,Ananya Sharma,Male,7,11,50,O+,99,20,Aisha Reddy,9831258765,Karnataka,Bengaluru
+ST000679,S00094,Arjun Reddy,Male,6,5,19,O+,75,27,Ananya Patel,9040374752,Gujarat,Ahmedabad
+ST000680,S00084,Arjun Sharma,Male,6,1,8,A+,79,27,Vivaan Khan,9311252802,Delhi,New Delhi
+ST000681,S00078,Vivaan Das,Female,15,9,60,B+,83,96,Sneha Singh,9541964090,Gujarat,Ahmedabad
+ST000682,S00052,Arjun Joshi,Female,6,9,50,A+,89,25,Rohan Das,9143184127,Maharashtra,Pune
+ST000683,S00070,Priya Joshi,Male,12,5,35,AB+,77,72,Aisha Jadhav,9610108104,Delhi,New Delhi
+ST000684,S00072,Arjun Nair,Female,8,6,17,A+,70,43,Diya Khan,9193143222,Maharashtra,Pune
+ST000685,S00086,Arjun Nair,Female,17,6,7,AB+,81,35,Sneha Jadhav,9270385419,Tamil Nadu,Chennai
+ST000686,S00092,Priya Joshi,Male,15,1,14,A+,76,80,Aisha Sharma,9761029632,Tamil Nadu,Chennai
+ST000687,S00015,Sai Jadhav,Female,17,5,26,AB+,96,93,Vivaan Kulkarni,9198432935,Gujarat,Ahmedabad
+ST000688,S00031,Arjun Nair,Female,16,2,25,O+,82,48,Neha Das,9557888848,Gujarat,Ahmedabad
+ST000689,S00054,Neha Patel,Male,15,4,41,AB+,82,36,Aarav Jadhav,9575856691,Gujarat,Ahmedabad
+ST000690,S00001,Rohan Das,Female,11,3,33,A+,76,89,Sneha Nair,9836038761,Karnataka,Bengaluru
+ST000691,S00005,Kavya Jadhav,Female,18,9,7,O+,91,26,Vivaan Singh,9330053906,Tamil Nadu,Chennai
+ST000692,S00049,Aisha Khan,Male,15,5,21,AB+,100,39,Rahul Jadhav,9100106073,Karnataka,Bengaluru
+ST000693,S00058,Vivaan Reddy,Male,12,11,60,A+,74,49,Arjun Kulkarni,9371061352,Karnataka,Bengaluru
+ST000694,S00006,Ananya Jadhav,Male,14,4,60,A+,93,47,Ishaan Khan,9607573368,Delhi,New Delhi
+ST000695,S00054,Sneha Patel,Male,11,5,19,O+,88,71,Sai Sharma,9901397874,Karnataka,Bengaluru
+ST000696,S00069,Neha Reddy,Male,10,12,11,B+,80,61,Diya Das,9908923245,Tamil Nadu,Chennai
+ST000697,S00097,Ishaan Jadhav,Female,12,1,58,AB+,91,57,Rahul Patel,9271894509,Karnataka,Bengaluru
+ST000698,S00096,Aditya Nair,Male,11,9,56,B+,81,81,Ishaan Khan,9488909274,Karnataka,Bengaluru
+ST000699,S00097,Arjun Das,Female,14,7,55,A+,79,43,Sai Sharma,9218147950,Tamil Nadu,Chennai
+ST000700,S00098,Aditya Sharma,Female,14,1,13,O+,76,81,Aisha Nair,9689852243,Delhi,New Delhi
+ST000701,S00027,Aarav Singh,Female,12,1,25,B+,88,62,Rahul Reddy,9289045353,Gujarat,Ahmedabad
+ST000702,S00096,Rohan Nair,Female,18,2,28,AB+,75,29,Ishaan Khan,9401499455,Maharashtra,Pune
+ST000703,S00028,Rahul Jadhav,Male,13,9,12,AB+,77,38,Priya Jadhav,9707206263,Gujarat,Ahmedabad
+ST000704,S00036,Aditya Jadhav,Male,7,9,42,O+,85,39,Neha Sharma,9086810782,Gujarat,Ahmedabad
+ST000705,S00038,Priya Sharma,Male,16,7,12,O+,85,96,Aarav Reddy,9263164613,Gujarat,Ahmedabad
+ST000706,S00081,Priya Singh,Male,15,1,22,AB+,77,68,Rohan Reddy,9332522820,Maharashtra,Pune
+ST000707,S00042,Aditya Joshi,Female,15,11,26,O+,81,98,Aarav Sharma,9946989743,Maharashtra,Pune
+ST000708,S00013,Rahul Sharma,Male,6,2,3,AB+,81,97,Diya Sharma,9715911824,Tamil Nadu,Chennai
+ST000709,S00019,Sai Khan,Female,7,4,35,B+,97,69,Diya Singh,9592598466,Delhi,New Delhi
+ST000710,S00017,Aarav Sharma,Male,8,9,39,A+,79,92,Aarav Kulkarni,9004587799,Gujarat,Ahmedabad
+ST000711,S00044,Sneha Sharma,Female,12,10,23,A+,96,64,Sneha Khan,9088878668,Tamil Nadu,Chennai
+ST000712,S00068,Neha Nair,Female,15,2,16,O+,78,56,Kavya Singh,9701503078,Gujarat,Ahmedabad
+ST000713,S00022,Neha Reddy,Male,17,12,31,AB+,87,34,Ishaan Jadhav,9384691424,Gujarat,Ahmedabad
+ST000714,S00075,Kavya Jadhav,Male,7,9,12,B+,73,35,Sai Joshi,9339956017,Delhi,New Delhi
+ST000715,S00082,Rahul Singh,Female,17,6,34,AB+,83,25,Sneha Patel,9843732202,Gujarat,Ahmedabad
+ST000716,S00013,Neha Khan,Male,9,12,18,AB+,70,61,Neha Singh,9312679447,Maharashtra,Pune
+ST000717,S00044,Neha Reddy,Female,14,1,1,A+,85,26,Kavya Nair,9971850521,Maharashtra,Pune
+ST000718,S00034,Arjun Patel,Male,16,8,37,AB+,96,88,Diya Patel,9496237275,Tamil Nadu,Chennai
+ST000719,S00004,Vivaan Joshi,Male,12,12,21,AB+,97,56,Kavya Joshi,9203615726,Karnataka,Bengaluru
+ST000720,S00094,Aarav Singh,Male,13,9,12,AB+,96,95,Aarav Jadhav,9679809397,Karnataka,Bengaluru
+ST000721,S00028,Diya Joshi,Female,16,8,51,B+,99,49,Neha Das,9220333866,Karnataka,Bengaluru
+ST000722,S00096,Kavya Singh,Male,13,6,21,O+,88,32,Arjun Sharma,9128085984,Maharashtra,Pune
+ST000723,S00046,Aditya Singh,Male,18,10,57,B+,77,91,Neha Sharma,9645131648,Karnataka,Bengaluru
+ST000724,S00053,Aditya Joshi,Female,7,3,4,O+,95,94,Ishaan Kulkarni,9624101800,Tamil Nadu,Chennai
+ST000725,S00019,Neha Nair,Female,8,2,7,B+,80,41,Aisha Kulkarni,9480974003,Karnataka,Bengaluru
+ST000726,S00012,Arjun Singh,Male,14,4,10,B+,78,80,Ishaan Patel,9015811908,Maharashtra,Pune
+ST000727,S00019,Kavya Singh,Male,15,11,5,O+,82,41,Vivaan Patel,9358778134,Gujarat,Ahmedabad
+ST000728,S00010,Neha Nair,Female,8,4,3,AB+,87,88,Rohan Patel,9492981594,Tamil Nadu,Chennai
+ST000729,S00068,Diya Patel,Male,17,12,51,A+,72,44,Kavya Nair,9687814155,Delhi,New Delhi
+ST000730,S00030,Neha Singh,Female,13,7,8,O+,85,82,Aarav Das,9622696724,Karnataka,Bengaluru
+ST000731,S00048,Rohan Singh,Female,15,11,3,O+,83,32,Diya Das,9892012716,Delhi,New Delhi
+ST000732,S00008,Ishaan Nair,Male,6,9,40,O+,81,86,Arjun Kulkarni,9305379859,Gujarat,Ahmedabad
+ST000733,S00082,Ishaan Patel,Male,6,4,17,A+,85,44,Ananya Kulkarni,9398276671,Maharashtra,Pune
+ST000734,S00024,Rohan Joshi,Male,18,5,45,O+,88,43,Aisha Khan,9092719815,Delhi,New Delhi
+ST000735,S00029,Neha Reddy,Female,6,11,38,A+,100,57,Ishaan Nair,9365538042,Delhi,New Delhi
+ST000736,S00016,Rohan Joshi,Female,14,7,19,A+,97,66,Kavya Khan,9209477490,Karnataka,Bengaluru
+ST000737,S00032,Aarav Das,Female,14,9,38,AB+,84,42,Arjun Joshi,9035520146,Maharashtra,Pune
+ST000738,S00086,Sai Das,Female,18,5,30,A+,88,81,Ishaan Kulkarni,9475870706,Maharashtra,Pune
+ST000739,S00060,Rohan Joshi,Male,17,10,54,AB+,78,84,Priya Sharma,9061870543,Gujarat,Ahmedabad
+ST000740,S00043,Aditya Reddy,Female,7,10,56,O+,96,89,Arjun Joshi,9077951497,Tamil Nadu,Chennai
+ST000741,S00032,Rohan Jadhav,Male,15,11,26,A+,70,67,Priya Joshi,9373345674,Tamil Nadu,Chennai
+ST000742,S00097,Neha Reddy,Female,6,6,49,AB+,91,23,Aisha Singh,9027031419,Karnataka,Bengaluru
+ST000743,S00096,Arjun Singh,Female,12,3,15,AB+,86,99,Neha Das,9367046437,Delhi,New Delhi
+ST000744,S00049,Aisha Patel,Female,10,6,50,AB+,89,22,Aisha Nair,9654460461,Karnataka,Bengaluru
+ST000745,S00052,Ananya Joshi,Male,6,1,57,A+,99,49,Rahul Singh,9148393941,Tamil Nadu,Chennai
+ST000746,S00047,Sneha Das,Female,13,8,3,A+,71,98,Aarav Patel,9388191649,Delhi,New Delhi
+ST000747,S00097,Arjun Nair,Male,14,10,38,AB+,94,63,Ishaan Patel,9413642087,Delhi,New Delhi
+ST000748,S00035,Aditya Patel,Male,12,6,13,B+,97,88,Sai Jadhav,9960610859,Karnataka,Bengaluru
+ST000749,S00003,Ishaan Reddy,Female,18,7,53,O+,75,42,Arjun Joshi,9605728967,Maharashtra,Pune
+ST000750,S00012,Priya Jadhav,Male,7,2,20,AB+,86,99,Diya Sharma,9254625946,Gujarat,Ahmedabad
+ST000751,S00014,Ananya Khan,Male,18,6,18,O+,94,79,Aditya Reddy,9093684209,Maharashtra,Pune
+ST000752,S00016,Arjun Singh,Male,18,6,8,A+,93,64,Neha Kulkarni,9053678286,Tamil Nadu,Chennai
+ST000753,S00081,Rohan Reddy,Male,6,12,35,A+,88,24,Arjun Kulkarni,9862591946,Gujarat,Ahmedabad
+ST000754,S00066,Sneha Nair,Male,7,5,13,AB+,92,54,Ananya Sharma,9578612071,Maharashtra,Pune
+ST000755,S00052,Aditya Sharma,Female,7,10,51,O+,76,90,Arjun Khan,9820925929,Gujarat,Ahmedabad
+ST000756,S00003,Ishaan Das,Male,13,8,24,AB+,90,58,Sai Joshi,9675821274,Gujarat,Ahmedabad
+ST000757,S00066,Aisha Kulkarni,Female,7,9,25,AB+,79,63,Diya Sharma,9870193502,Maharashtra,Pune
+ST000758,S00044,Vivaan Khan,Female,8,7,47,B+,95,81,Rahul Joshi,9208503180,Tamil Nadu,Chennai
+ST000759,S00031,Ananya Joshi,Female,13,12,14,B+,99,95,Arjun Khan,9154798447,Gujarat,Ahmedabad
+ST000760,S00076,Neha Nair,Female,8,7,40,O+,79,82,Aditya Reddy,9762226315,Gujarat,Ahmedabad
+ST000761,S00086,Rahul Das,Female,7,11,37,O+,85,34,Diya Nair,9088435460,Delhi,New Delhi
+ST000762,S00028,Priya Kulkarni,Male,6,8,29,B+,74,46,Aisha Nair,9264435409,Delhi,New Delhi
+ST000763,S00006,Arjun Das,Female,14,10,12,O+,97,43,Priya Singh,9469402299,Gujarat,Ahmedabad
+ST000764,S00062,Priya Singh,Male,10,11,33,O+,89,36,Diya Reddy,9007242228,Tamil Nadu,Chennai
+ST000765,S00084,Rohan Nair,Male,12,11,35,A+,72,55,Aditya Das,9504028909,Tamil Nadu,Chennai
+ST000766,S00078,Aarav Das,Female,6,1,55,AB+,87,40,Neha Das,9543141224,Karnataka,Bengaluru
+ST000767,S00039,Arjun Reddy,Male,15,11,54,B+,90,41,Kavya Sharma,9323892710,Maharashtra,Pune
+ST000768,S00020,Aisha Khan,Male,16,6,9,AB+,77,22,Sneha Sharma,9093997988,Delhi,New Delhi
+ST000769,S00045,Neha Joshi,Female,7,9,18,O+,82,57,Neha Jadhav,9638635897,Karnataka,Bengaluru
+ST000770,S00018,Ishaan Nair,Male,7,11,24,AB+,83,31,Rahul Sharma,9104402390,Karnataka,Bengaluru
+ST000771,S00013,Kavya Singh,Male,9,11,39,A+,86,37,Arjun Kulkarni,9490479811,Delhi,New Delhi
+ST000772,S00005,Arjun Nair,Female,8,3,25,A+,82,80,Aarav Kulkarni,9066628770,Maharashtra,Pune
+ST000773,S00024,Sneha Patel,Male,16,1,17,AB+,98,20,Rohan Patel,9274656951,Delhi,New Delhi
+ST000774,S00085,Ananya Khan,Female,9,5,42,AB+,90,50,Priya Reddy,9562412716,Karnataka,Bengaluru
+ST000775,S00064,Arjun Patel,Male,15,7,11,O+,98,76,Rohan Singh,9571692382,Karnataka,Bengaluru
+ST000776,S00066,Ishaan Kulkarni,Female,11,5,18,O+,92,86,Arjun Reddy,9690999886,Maharashtra,Pune
+ST000777,S00084,Ananya Jadhav,Female,11,9,22,AB+,94,42,Aarav Das,9225392913,Tamil Nadu,Chennai
+ST000778,S00009,Neha Reddy,Male,18,12,42,O+,92,94,Rahul Joshi,9822418801,Karnataka,Bengaluru
+ST000779,S00070,Kavya Reddy,Female,9,10,49,A+,85,65,Vivaan Joshi,9947923791,Tamil Nadu,Chennai
+ST000780,S00047,Rohan Khan,Male,13,11,16,B+,89,49,Aditya Jadhav,9317593503,Gujarat,Ahmedabad
+ST000781,S00070,Sai Singh,Male,9,6,44,AB+,98,82,Ishaan Khan,9855712085,Karnataka,Bengaluru
+ST000782,S00079,Sneha Singh,Male,12,11,18,B+,98,92,Vivaan Khan,9438378909,Delhi,New Delhi
+ST000783,S00051,Rahul Jadhav,Female,13,1,2,B+,92,28,Ishaan Patel,9943368427,Karnataka,Bengaluru
+ST000784,S00049,Aditya Sharma,Male,6,12,47,A+,87,20,Kavya Das,9614541351,Delhi,New Delhi
+ST000785,S00006,Priya Singh,Male,15,10,48,A+,98,74,Priya Joshi,9629220478,Maharashtra,Pune
+ST000786,S00091,Sneha Kulkarni,Male,7,10,13,O+,84,54,Aditya Joshi,9193753593,Tamil Nadu,Chennai
+ST000787,S00089,Rahul Khan,Female,15,1,41,AB+,79,100,Sai Nair,9204842447,Karnataka,Bengaluru
+ST000788,S00092,Sai Khan,Male,9,4,37,B+,89,55,Diya Reddy,9393857766,Karnataka,Bengaluru
+ST000789,S00071,Neha Sharma,Female,12,6,12,A+,77,46,Rahul Nair,9611105324,Tamil Nadu,Chennai
+ST000790,S00020,Kavya Sharma,Female,11,7,20,AB+,81,59,Diya Jadhav,9159019885,Karnataka,Bengaluru
+ST000791,S00099,Rahul Nair,Female,18,10,29,B+,82,70,Diya Singh,9879404034,Tamil Nadu,Chennai
+ST000792,S00049,Aisha Reddy,Female,14,11,40,A+,77,71,Vivaan Khan,9151824766,Delhi,New Delhi
+ST000793,S00095,Diya Jadhav,Male,13,11,9,A+,86,74,Kavya Jadhav,9466343493,Maharashtra,Pune
+ST000794,S00078,Kavya Patel,Male,13,5,39,A+,98,50,Rahul Patel,9105647969,Karnataka,Bengaluru
+ST000795,S00029,Ananya Joshi,Female,7,9,55,AB+,87,50,Sai Das,9071035750,Tamil Nadu,Chennai
+ST000796,S00009,Aisha Singh,Male,7,4,57,A+,93,35,Rahul Kulkarni,9311107953,Maharashtra,Pune
+ST000797,S00097,Priya Reddy,Female,15,1,53,B+,81,85,Sneha Khan,9107278649,Karnataka,Bengaluru
+ST000798,S00060,Arjun Joshi,Female,18,11,14,AB+,93,67,Aarav Singh,9892970137,Tamil Nadu,Chennai
+ST000799,S00092,Vivaan Patel,Male,15,10,1,O+,73,98,Aditya Sharma,9927544291,Delhi,New Delhi
+ST000800,S00055,Aarav Sharma,Male,15,8,7,O+,89,46,Kavya Das,9848418391,Tamil Nadu,Chennai
+ST000801,S00067,Vivaan Sharma,Female,8,9,60,O+,82,76,Aisha Das,9324327947,Tamil Nadu,Chennai
+ST000802,S00033,Neha Khan,Female,18,6,25,O+,80,97,Aarav Joshi,9743914010,Tamil Nadu,Chennai
+ST000803,S00095,Ishaan Patel,Female,9,3,22,A+,84,34,Aditya Reddy,9503792010,Karnataka,Bengaluru
+ST000804,S00014,Neha Patel,Male,18,12,39,B+,71,36,Ishaan Khan,9929886772,Gujarat,Ahmedabad
+ST000805,S00040,Neha Patel,Female,8,6,43,AB+,80,66,Sneha Khan,9761478438,Tamil Nadu,Chennai
+ST000806,S00085,Aisha Singh,Male,11,1,26,AB+,79,45,Aarav Khan,9630865269,Delhi,New Delhi
+ST000807,S00050,Sneha Jadhav,Male,18,2,55,A+,93,42,Vivaan Nair,9473947416,Karnataka,Bengaluru
+ST000808,S00016,Sneha Khan,Female,18,9,54,B+,96,31,Rohan Reddy,9043163134,Gujarat,Ahmedabad
+ST000809,S00069,Neha Reddy,Female,8,4,4,O+,91,100,Aditya Joshi,9810350505,Maharashtra,Pune
+ST000810,S00066,Aditya Singh,Male,13,9,4,AB+,98,76,Sai Reddy,9159356232,Karnataka,Bengaluru
+ST000811,S00039,Ishaan Singh,Male,17,8,35,B+,87,93,Diya Khan,9214888822,Tamil Nadu,Chennai
+ST000812,S00035,Rahul Patel,Male,6,2,43,O+,90,45,Vivaan Sharma,9364022005,Delhi,New Delhi
+ST000813,S00092,Kavya Joshi,Male,12,5,46,O+,92,62,Aisha Sharma,9447003122,Gujarat,Ahmedabad
+ST000814,S00044,Sneha Joshi,Female,18,12,11,AB+,94,67,Diya Reddy,9939110535,Tamil Nadu,Chennai
+ST000815,S00041,Rohan Nair,Male,18,9,13,B+,76,60,Vivaan Reddy,9775863049,Gujarat,Ahmedabad
+ST000816,S00068,Vivaan Reddy,Female,17,1,44,A+,96,21,Vivaan Joshi,9609520135,Delhi,New Delhi
+ST000817,S00094,Priya Kulkarni,Female,13,6,2,O+,78,44,Ishaan Reddy,9989180440,Gujarat,Ahmedabad
+ST000818,S00095,Aarav Das,Male,11,12,49,A+,95,41,Diya Kulkarni,9209488343,Tamil Nadu,Chennai
+ST000819,S00062,Ananya Singh,Male,18,3,11,AB+,80,48,Ishaan Kulkarni,9717844518,Gujarat,Ahmedabad
+ST000820,S00055,Rahul Nair,Female,15,1,60,O+,88,100,Aditya Reddy,9496431956,Maharashtra,Pune
+ST000821,S00011,Diya Patel,Male,12,6,44,AB+,100,66,Arjun Khan,9631380565,Gujarat,Ahmedabad
+ST000822,S00057,Sai Kulkarni,Female,7,8,19,AB+,86,25,Rohan Kulkarni,9684711589,Tamil Nadu,Chennai
+ST000823,S00041,Kavya Das,Male,17,5,55,O+,83,75,Rohan Sharma,9388375431,Karnataka,Bengaluru
+ST000824,S00031,Ishaan Patel,Male,6,4,2,O+,93,46,Ananya Sharma,9732017868,Delhi,New Delhi
+ST000825,S00064,Rahul Das,Female,13,2,41,O+,93,80,Ananya Patel,9635625625,Gujarat,Ahmedabad
+ST000826,S00072,Rahul Jadhav,Female,6,9,16,AB+,87,95,Rahul Singh,9569465421,Karnataka,Bengaluru
+ST000827,S00039,Ishaan Khan,Female,10,9,52,AB+,70,25,Priya Singh,9984374436,Delhi,New Delhi
+ST000828,S00027,Rohan Reddy,Male,7,4,8,B+,92,89,Diya Jadhav,9641619090,Maharashtra,Pune
+ST000829,S00018,Sneha Jadhav,Male,9,2,27,O+,87,75,Ishaan Khan,9319489291,Gujarat,Ahmedabad
+ST000830,S00063,Sai Reddy,Male,17,11,9,A+,86,88,Rohan Khan,9450552031,Delhi,New Delhi
+ST000831,S00067,Ishaan Jadhav,Male,7,11,21,A+,97,41,Aditya Jadhav,9024356156,Maharashtra,Pune
+ST000832,S00083,Aarav Sharma,Male,17,3,42,B+,80,92,Arjun Khan,9374371001,Karnataka,Bengaluru
+ST000833,S00100,Sneha Reddy,Female,17,3,10,O+,82,45,Kavya Jadhav,9673711316,Gujarat,Ahmedabad
+ST000834,S00002,Ishaan Joshi,Female,16,8,58,A+,85,57,Priya Das,9453002584,Tamil Nadu,Chennai
+ST000835,S00044,Sai Singh,Female,7,4,59,O+,87,59,Diya Jadhav,9511528737,Karnataka,Bengaluru
+ST000836,S00097,Kavya Reddy,Male,18,11,20,A+,96,99,Neha Patel,9619988117,Gujarat,Ahmedabad
+ST000837,S00076,Diya Kulkarni,Female,14,11,7,O+,81,85,Ananya Khan,9239383039,Maharashtra,Pune
+ST000838,S00022,Rahul Kulkarni,Female,16,10,27,AB+,73,53,Aarav Khan,9932595664,Tamil Nadu,Chennai
+ST000839,S00042,Sai Das,Male,8,9,26,B+,70,51,Rahul Jadhav,9388089055,Gujarat,Ahmedabad
+ST000840,S00028,Ishaan Jadhav,Male,11,6,33,B+,96,80,Ishaan Patel,9473196332,Delhi,New Delhi
+ST000841,S00085,Neha Jadhav,Male,14,5,55,O+,100,92,Diya Kulkarni,9942965511,Tamil Nadu,Chennai
+ST000842,S00058,Rahul Joshi,Female,18,8,42,AB+,91,38,Arjun Sharma,9235594147,Karnataka,Bengaluru
+ST000843,S00046,Aditya Patel,Male,13,4,1,O+,79,26,Ishaan Singh,9342561767,Maharashtra,Pune
+ST000844,S00018,Ananya Jadhav,Female,10,3,44,O+,94,71,Priya Nair,9055019292,Maharashtra,Pune
+ST000845,S00054,Aarav Sharma,Male,11,9,13,B+,99,62,Ishaan Joshi,9775218392,Tamil Nadu,Chennai
+ST000846,S00070,Arjun Joshi,Female,6,6,16,B+,79,96,Neha Patel,9585043134,Gujarat,Ahmedabad
+ST000847,S00090,Aisha Reddy,Female,12,6,8,O+,73,44,Ishaan Sharma,9828394877,Maharashtra,Pune
+ST000848,S00014,Vivaan Singh,Female,8,7,34,O+,94,44,Aditya Nair,9194272937,Tamil Nadu,Chennai
+ST000849,S00091,Sneha Kulkarni,Male,17,10,25,A+,95,42,Aarav Das,9377404402,Gujarat,Ahmedabad
+ST000850,S00031,Rahul Patel,Female,18,5,9,A+,76,21,Ishaan Reddy,9264121921,Delhi,New Delhi
+ST000851,S00069,Neha Singh,Male,9,4,53,O+,84,89,Sai Kulkarni,9703740384,Gujarat,Ahmedabad
+ST000852,S00077,Kavya Das,Female,6,6,45,O+,86,33,Kavya Khan,9828048365,Karnataka,Bengaluru
+ST000853,S00051,Ananya Sharma,Male,15,3,54,A+,93,57,Sneha Das,9326648842,Delhi,New Delhi
+ST000854,S00045,Aarav Reddy,Male,17,1,5,A+,86,74,Rahul Jadhav,9612119904,Delhi,New Delhi
+ST000855,S00015,Rohan Khan,Female,6,11,21,B+,78,36,Ananya Joshi,9479729811,Tamil Nadu,Chennai
+ST000856,S00002,Ananya Das,Female,9,3,24,B+,95,33,Neha Sharma,9537943299,Karnataka,Bengaluru
+ST000857,S00026,Aisha Das,Female,16,4,60,B+,80,29,Priya Das,9771717802,Maharashtra,Pune
+ST000858,S00099,Ananya Singh,Female,8,5,40,A+,91,54,Ananya Sharma,9942066472,Gujarat,Ahmedabad
+ST000859,S00032,Aditya Patel,Male,9,3,26,A+,98,33,Vivaan Das,9949020417,Tamil Nadu,Chennai
+ST000860,S00093,Priya Sharma,Male,12,12,28,B+,86,54,Aditya Nair,9282141605,Gujarat,Ahmedabad
+ST000861,S00048,Arjun Kulkarni,Female,9,5,45,O+,95,95,Kavya Das,9042429476,Gujarat,Ahmedabad
+ST000862,S00007,Arjun Nair,Male,15,5,11,B+,77,94,Kavya Kulkarni,9844393146,Karnataka,Bengaluru
+ST000863,S00084,Rohan Reddy,Female,6,11,42,AB+,80,86,Rohan Reddy,9175130318,Maharashtra,Pune
+ST000864,S00004,Aarav Das,Male,13,3,46,A+,78,30,Sai Das,9903865973,Gujarat,Ahmedabad
+ST000865,S00040,Neha Singh,Male,15,8,58,AB+,96,67,Diya Das,9450853883,Maharashtra,Pune
+ST000866,S00049,Aditya Kulkarni,Female,13,9,54,B+,72,89,Sai Nair,9914646124,Delhi,New Delhi
+ST000867,S00092,Aarav Nair,Female,11,11,30,A+,83,29,Vivaan Nair,9150993556,Tamil Nadu,Chennai
+ST000868,S00055,Arjun Kulkarni,Female,11,2,2,O+,75,46,Diya Jadhav,9022056739,Tamil Nadu,Chennai
+ST000869,S00001,Aditya Patel,Female,12,4,40,O+,88,27,Rahul Das,9885421948,Karnataka,Bengaluru
+ST000870,S00030,Rahul Kulkarni,Female,11,8,23,A+,76,49,Ananya Singh,9882830619,Delhi,New Delhi
+ST000871,S00038,Aarav Khan,Female,9,12,24,B+,91,70,Aisha Sharma,9156822639,Delhi,New Delhi
+ST000872,S00041,Aisha Joshi,Male,16,7,2,AB+,97,95,Vivaan Patel,9408756072,Delhi,New Delhi
+ST000873,S00009,Ishaan Kulkarni,Male,14,3,51,A+,91,75,Diya Sharma,9142472324,Gujarat,Ahmedabad
+ST000874,S00048,Aarav Joshi,Female,16,3,54,AB+,77,37,Rahul Nair,9293183434,Maharashtra,Pune
+ST000875,S00007,Diya Das,Female,9,12,49,B+,90,47,Sneha Joshi,9349535473,Delhi,New Delhi
+ST000876,S00098,Aarav Sharma,Male,7,1,49,O+,94,69,Neha Patel,9510635455,Karnataka,Bengaluru
+ST000877,S00075,Aarav Patel,Male,8,4,38,AB+,86,69,Aisha Sharma,9094304121,Tamil Nadu,Chennai
+ST000878,S00071,Vivaan Jadhav,Male,12,12,23,B+,80,76,Vivaan Nair,9276141553,Maharashtra,Pune
+ST000879,S00083,Sneha Patel,Male,11,5,10,B+,98,53,Aarav Patel,9086816417,Delhi,New Delhi
+ST000880,S00037,Rahul Khan,Male,15,4,42,A+,92,66,Ananya Singh,9952618724,Maharashtra,Pune
+ST000881,S00062,Rohan Patel,Male,12,11,5,B+,88,61,Vivaan Khan,9115201825,Karnataka,Bengaluru
+ST000882,S00012,Neha Reddy,Male,10,2,40,AB+,80,55,Rahul Khan,9775032097,Maharashtra,Pune
+ST000883,S00053,Rohan Reddy,Female,8,6,12,AB+,92,63,Rahul Reddy,9641784567,Tamil Nadu,Chennai
+ST000884,S00097,Ananya Nair,Female,10,5,27,AB+,78,89,Rahul Nair,9360535660,Gujarat,Ahmedabad
+ST000885,S00097,Aisha Reddy,Male,17,6,44,O+,95,87,Priya Jadhav,9506825571,Maharashtra,Pune
+ST000886,S00012,Aisha Reddy,Male,7,7,57,B+,74,61,Arjun Nair,9119781021,Karnataka,Bengaluru
+ST000887,S00034,Sai Kulkarni,Female,6,8,5,AB+,76,59,Rahul Reddy,9946617146,Karnataka,Bengaluru
+ST000888,S00048,Priya Reddy,Female,12,12,43,O+,88,92,Rahul Das,9812454344,Karnataka,Bengaluru
+ST000889,S00028,Kavya Khan,Female,15,3,36,O+,71,38,Ananya Patel,9976929526,Delhi,New Delhi
+ST000890,S00025,Aditya Khan,Male,8,3,37,AB+,96,86,Sneha Reddy,9405066772,Tamil Nadu,Chennai
+ST000891,S00009,Ishaan Das,Male,13,11,49,AB+,70,79,Sneha Khan,9308978227,Gujarat,Ahmedabad
+ST000892,S00091,Aditya Reddy,Male,15,6,21,AB+,98,42,Ishaan Joshi,9553917900,Tamil Nadu,Chennai
+ST000893,S00030,Neha Das,Female,6,5,6,A+,96,42,Aditya Nair,9551925922,Tamil Nadu,Chennai
+ST000894,S00006,Sneha Das,Female,18,3,26,AB+,85,26,Neha Das,9729534366,Maharashtra,Pune
+ST000895,S00008,Neha Jadhav,Female,9,9,31,A+,82,96,Aarav Reddy,9200446911,Tamil Nadu,Chennai
+ST000896,S00039,Ananya Jadhav,Female,7,12,39,O+,74,23,Ananya Sharma,9146892258,Karnataka,Bengaluru
+ST000897,S00065,Aditya Sharma,Female,15,6,31,B+,98,96,Aditya Sharma,9934046781,Tamil Nadu,Chennai
+ST000898,S00090,Aditya Reddy,Female,16,5,43,AB+,100,99,Aditya Joshi,9715202181,Karnataka,Bengaluru
+ST000899,S00065,Diya Das,Male,8,6,28,A+,85,32,Priya Joshi,9106829882,Gujarat,Ahmedabad
+ST000900,S00024,Kavya Patel,Male,11,9,43,O+,85,62,Sneha Khan,9707729951,Tamil Nadu,Chennai
+ST000901,S00049,Sai Das,Male,18,7,1,O+,91,26,Ishaan Joshi,9872274513,Delhi,New Delhi
+ST000902,S00074,Aisha Jadhav,Male,10,10,8,O+,85,52,Ananya Jadhav,9931490910,Tamil Nadu,Chennai
+ST000903,S00046,Vivaan Joshi,Male,18,2,21,O+,89,70,Aisha Khan,9742734624,Tamil Nadu,Chennai
+ST000904,S00023,Arjun Patel,Female,7,11,13,AB+,98,57,Aisha Joshi,9668787230,Tamil Nadu,Chennai
+ST000905,S00094,Neha Sharma,Male,7,5,60,AB+,91,68,Vivaan Khan,9551095288,Gujarat,Ahmedabad
+ST000906,S00029,Aditya Kulkarni,Female,7,9,28,B+,88,41,Aisha Patel,9674072262,Delhi,New Delhi
+ST000907,S00021,Sneha Singh,Male,7,4,27,B+,100,45,Aarav Reddy,9225889490,Gujarat,Ahmedabad
+ST000908,S00035,Sai Reddy,Male,15,5,39,A+,87,31,Diya Nair,9582382333,Delhi,New Delhi
+ST000909,S00064,Aditya Khan,Male,10,6,18,O+,83,90,Sai Khan,9414643356,Delhi,New Delhi
+ST000910,S00097,Ishaan Kulkarni,Male,9,8,10,B+,100,88,Vivaan Joshi,9135831396,Karnataka,Bengaluru
+ST000911,S00033,Sai Khan,Male,8,6,38,AB+,82,40,Arjun Singh,9828390037,Maharashtra,Pune
+ST000912,S00002,Rahul Das,Female,8,1,11,A+,94,74,Rohan Joshi,9387148283,Karnataka,Bengaluru
+ST000913,S00068,Vivaan Das,Female,12,10,10,AB+,81,45,Sneha Patel,9920138787,Karnataka,Bengaluru
+ST000914,S00036,Priya Reddy,Female,8,10,32,AB+,70,62,Rahul Patel,9601436036,Delhi,New Delhi
+ST000915,S00081,Priya Das,Male,10,10,52,AB+,75,89,Sneha Das,9510069360,Maharashtra,Pune
+ST000916,S00040,Aditya Sharma,Female,14,9,12,O+,81,56,Aisha Patel,9811596844,Tamil Nadu,Chennai
+ST000917,S00036,Ishaan Kulkarni,Male,15,1,59,A+,96,34,Aisha Reddy,9638750319,Maharashtra,Pune
+ST000918,S00042,Rohan Reddy,Female,14,12,8,AB+,88,76,Neha Nair,9263413411,Maharashtra,Pune
+ST000919,S00040,Neha Sharma,Female,12,4,46,AB+,73,71,Sai Sharma,9350204101,Tamil Nadu,Chennai
+ST000920,S00100,Arjun Nair,Male,17,1,20,AB+,84,54,Diya Das,9265894387,Gujarat,Ahmedabad
+ST000921,S00085,Aditya Sharma,Male,13,3,21,O+,97,52,Vivaan Jadhav,9568678223,Delhi,New Delhi
+ST000922,S00070,Neha Jadhav,Male,9,10,47,B+,78,33,Ananya Jadhav,9931934092,Maharashtra,Pune
+ST000923,S00011,Neha Reddy,Female,17,8,41,O+,98,68,Vivaan Singh,9801679346,Gujarat,Ahmedabad
+ST000924,S00027,Rohan Sharma,Female,13,5,31,O+,82,83,Rahul Jadhav,9679605159,Tamil Nadu,Chennai
+ST000925,S00067,Vivaan Singh,Female,7,8,54,B+,78,56,Sneha Nair,9139384172,Delhi,New Delhi
+ST000926,S00035,Sneha Das,Female,10,9,20,O+,91,43,Rahul Das,9175570571,Delhi,New Delhi
+ST000927,S00048,Arjun Patel,Male,12,12,15,A+,82,29,Kavya Patel,9017266123,Karnataka,Bengaluru
+ST000928,S00054,Diya Kulkarni,Female,15,11,25,B+,83,23,Rohan Das,9376270949,Maharashtra,Pune
+ST000929,S00100,Ishaan Kulkarni,Male,8,8,6,AB+,91,73,Aisha Khan,9986385478,Maharashtra,Pune
+ST000930,S00052,Rohan Kulkarni,Male,16,3,31,A+,91,64,Priya Sharma,9733682472,Karnataka,Bengaluru
+ST000931,S00052,Priya Sharma,Male,18,3,42,A+,85,62,Sneha Das,9258933849,Karnataka,Bengaluru
+ST000932,S00088,Ishaan Jadhav,Male,17,10,2,A+,70,55,Aisha Das,9519658195,Delhi,New Delhi
+ST000933,S00010,Ishaan Khan,Female,15,9,28,AB+,73,26,Rohan Nair,9662500801,Gujarat,Ahmedabad
+ST000934,S00073,Ishaan Kulkarni,Male,8,11,24,A+,73,32,Rohan Sharma,9117271041,Gujarat,Ahmedabad
+ST000935,S00028,Rahul Sharma,Female,11,5,11,B+,77,21,Sneha Reddy,9156641935,Delhi,New Delhi
+ST000936,S00091,Diya Kulkarni,Female,14,8,1,AB+,88,88,Ishaan Singh,9320447367,Maharashtra,Pune
+ST000937,S00024,Ishaan Nair,Female,7,6,25,AB+,99,51,Rahul Jadhav,9374181066,Delhi,New Delhi
+ST000938,S00098,Arjun Joshi,Female,18,4,55,O+,78,82,Rohan Singh,9265532696,Tamil Nadu,Chennai
+ST000939,S00024,Aditya Joshi,Female,15,9,11,AB+,99,26,Aisha Reddy,9911935238,Karnataka,Bengaluru
+ST000940,S00017,Sneha Khan,Female,14,12,21,O+,79,97,Sai Singh,9097210223,Delhi,New Delhi
+ST000941,S00032,Diya Khan,Male,9,6,10,A+,99,27,Vivaan Sharma,9214256625,Delhi,New Delhi
+ST000942,S00030,Ishaan Das,Male,16,10,1,B+,81,43,Sai Sharma,9382003329,Gujarat,Ahmedabad
+ST000943,S00014,Neha Khan,Male,17,4,4,AB+,91,89,Priya Sharma,9588583280,Maharashtra,Pune
+ST000944,S00095,Neha Nair,Male,10,7,58,B+,72,58,Arjun Joshi,9983564376,Tamil Nadu,Chennai
+ST000945,S00099,Arjun Sharma,Male,9,2,28,O+,91,31,Rohan Das,9702914570,Tamil Nadu,Chennai
+ST000946,S00027,Vivaan Patel,Female,16,12,7,O+,82,57,Sai Nair,9328152215,Delhi,New Delhi
+ST000947,S00010,Ishaan Joshi,Female,10,7,2,A+,76,77,Neha Khan,9759526706,Karnataka,Bengaluru
+ST000948,S00086,Sneha Joshi,Male,17,5,17,B+,81,59,Aarav Kulkarni,9174243937,Gujarat,Ahmedabad
+ST000949,S00006,Ananya Joshi,Female,12,12,53,A+,85,28,Priya Jadhav,9921813783,Maharashtra,Pune
+ST000950,S00008,Vivaan Nair,Male,16,6,12,O+,95,53,Rahul Das,9215691667,Tamil Nadu,Chennai
+ST000951,S00053,Diya Nair,Female,12,10,1,B+,87,56,Diya Nair,9869390586,Tamil Nadu,Chennai
+ST000952,S00028,Sneha Singh,Male,15,9,41,A+,97,29,Ishaan Khan,9575032819,Karnataka,Bengaluru
+ST000953,S00005,Priya Sharma,Female,11,9,45,O+,73,80,Kavya Joshi,9249746172,Karnataka,Bengaluru
+ST000954,S00087,Rohan Reddy,Female,10,2,57,B+,78,20,Vivaan Jadhav,9124476470,Tamil Nadu,Chennai
+ST000955,S00078,Vivaan Jadhav,Male,16,6,36,O+,70,93,Vivaan Kulkarni,9994175513,Karnataka,Bengaluru
+ST000956,S00073,Vivaan Kulkarni,Male,18,3,11,AB+,78,71,Aisha Patel,9864142790,Tamil Nadu,Chennai
+ST000957,S00009,Ishaan Singh,Male,16,3,57,A+,76,95,Aarav Patel,9479823905,Karnataka,Bengaluru
+ST000958,S00071,Vivaan Sharma,Male,8,3,58,O+,89,88,Sai Joshi,9810314004,Maharashtra,Pune
+ST000959,S00005,Neha Jadhav,Female,7,4,22,A+,81,46,Kavya Patel,9273479671,Tamil Nadu,Chennai
+ST000960,S00033,Neha Joshi,Female,7,8,23,A+,84,78,Aisha Singh,9436897202,Karnataka,Bengaluru
+ST000961,S00023,Sneha Kulkarni,Male,15,4,45,A+,80,86,Aarav Das,9554546349,Gujarat,Ahmedabad
+ST000962,S00040,Neha Khan,Female,10,3,43,A+,79,31,Sneha Khan,9319788925,Maharashtra,Pune
+ST000963,S00029,Neha Kulkarni,Female,12,2,39,O+,95,59,Diya Jadhav,9308600624,Gujarat,Ahmedabad
+ST000964,S00100,Priya Das,Male,17,9,9,AB+,89,37,Vivaan Khan,9100758358,Delhi,New Delhi
+ST000965,S00081,Diya Khan,Male,9,9,13,AB+,92,46,Priya Patel,9943330454,Delhi,New Delhi
+ST000966,S00020,Aarav Das,Female,14,10,52,O+,78,34,Rohan Reddy,9983198443,Tamil Nadu,Chennai
+ST000967,S00064,Ishaan Patel,Male,18,1,4,AB+,92,83,Sneha Jadhav,9471695670,Gujarat,Ahmedabad
+ST000968,S00079,Aditya Khan,Female,11,2,55,A+,78,29,Diya Nair,9263818572,Maharashtra,Pune
+ST000969,S00032,Sneha Sharma,Male,13,8,58,A+,79,34,Aarav Sharma,9818639066,Gujarat,Ahmedabad
+ST000970,S00089,Priya Reddy,Male,17,2,53,AB+,92,96,Ishaan Kulkarni,9544549008,Delhi,New Delhi
+ST000971,S00072,Aarav Kulkarni,Female,10,1,8,O+,77,68,Rahul Singh,9010010543,Tamil Nadu,Chennai
+ST000972,S00067,Aditya Reddy,Male,12,6,23,A+,99,96,Ishaan Nair,9849253394,Karnataka,Bengaluru
+ST000973,S00061,Sai Kulkarni,Female,16,5,9,B+,82,54,Ananya Nair,9683084420,Tamil Nadu,Chennai
+ST000974,S00037,Ananya Das,Female,15,12,21,O+,79,100,Sai Reddy,9197631038,Tamil Nadu,Chennai
+ST000975,S00091,Rahul Kulkarni,Male,12,5,41,B+,85,28,Sneha Khan,9986147175,Tamil Nadu,Chennai
+ST000976,S00027,Aditya Kulkarni,Male,8,9,5,AB+,75,75,Rohan Singh,9569052004,Karnataka,Bengaluru
+ST000977,S00008,Ishaan Reddy,Male,14,1,43,O+,70,56,Aarav Patel,9114666247,Delhi,New Delhi
+ST000978,S00046,Rohan Kulkarni,Female,7,4,41,AB+,96,94,Aarav Kulkarni,9196190459,Delhi,New Delhi
+ST000979,S00044,Priya Khan,Female,17,6,56,AB+,70,26,Ananya Khan,9686815631,Delhi,New Delhi
+ST000980,S00049,Neha Khan,Male,6,10,13,O+,79,28,Arjun Patel,9817279352,Delhi,New Delhi
+ST000981,S00032,Aisha Nair,Female,13,9,3,A+,87,86,Ananya Jadhav,9069318258,Maharashtra,Pune
+ST000982,S00067,Priya Singh,Male,12,12,6,AB+,91,92,Ananya Das,9341722891,Karnataka,Bengaluru
+ST000983,S00081,Kavya Joshi,Male,15,5,46,A+,78,78,Sneha Jadhav,9713523294,Gujarat,Ahmedabad
+ST000984,S00092,Kavya Das,Male,13,12,29,B+,77,36,Sneha Patel,9336311336,Tamil Nadu,Chennai
+ST000985,S00090,Priya Khan,Female,18,5,44,A+,80,21,Sai Kulkarni,9540415541,Tamil Nadu,Chennai
+ST000986,S00082,Aditya Das,Female,7,4,55,O+,73,38,Ishaan Das,9124047274,Tamil Nadu,Chennai
+ST000987,S00026,Aditya Patel,Female,17,5,45,O+,93,33,Rohan Khan,9430260321,Karnataka,Bengaluru
+ST000988,S00056,Rohan Nair,Male,14,3,51,O+,100,66,Arjun Das,9781809462,Gujarat,Ahmedabad
+ST000989,S00020,Diya Singh,Male,10,7,36,O+,96,53,Neha Joshi,9350428448,Tamil Nadu,Chennai
+ST000990,S00092,Diya Reddy,Female,15,6,16,AB+,79,50,Sai Sharma,9904782340,Gujarat,Ahmedabad
+ST000991,S00032,Aditya Singh,Female,11,4,14,O+,94,40,Priya Joshi,9410334892,Gujarat,Ahmedabad
+ST000992,S00049,Neha Das,Female,6,7,43,B+,88,98,Aarav Das,9486832607,Gujarat,Ahmedabad
+ST000993,S00008,Aditya Joshi,Female,14,9,21,A+,98,39,Aisha Reddy,9520317054,Delhi,New Delhi
+ST000994,S00047,Priya Khan,Male,15,2,42,O+,81,83,Sai Kulkarni,9182457269,Tamil Nadu,Chennai
+ST000995,S00026,Arjun Reddy,Male,17,6,13,B+,95,35,Arjun Das,9619014644,Karnataka,Bengaluru
+ST000996,S00034,Arjun Singh,Male,12,12,31,A+,99,94,Sneha Joshi,9854055271,Maharashtra,Pune
+ST000997,S00097,Aarav Kulkarni,Female,8,4,60,A+,83,27,Rahul Reddy,9305059308,Tamil Nadu,Chennai
+ST000998,S00026,Kavya Sharma,Female,9,12,34,A+,97,23,Sai Jadhav,9339627327,Delhi,New Delhi
+ST000999,S00059,Aarav Kulkarni,Female,8,12,5,B+,80,76,Aisha Nair,9593757503,Gujarat,Ahmedabad
+ST001000,S00070,Sneha Singh,Female,10,7,54,O+,77,99,Aarav Joshi,9493834531,Delhi,New Delhi

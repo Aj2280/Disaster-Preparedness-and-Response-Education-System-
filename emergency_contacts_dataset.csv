@@ -1,0 +1,61 @@
+id,state,district,city,service,department,contact_number,alternate_number,email,address,available_24x7
+1,Maharashtra,Ratnagiri,Ratnagiri,Police,Police Department,100,112,police@example.gov.in,"Ratnagiri, Ratnagiri, Maharashtra",Yes
+2,Maharashtra,Ratnagiri,Ratnagiri,Fire,Fire Department,101,112,fire@example.gov.in,"Ratnagiri, Ratnagiri, Maharashtra",Yes
+3,Maharashtra,Ratnagiri,Ratnagiri,Ambulance,Ambulance Department,108,112,ambulance@example.gov.in,"Ratnagiri, Ratnagiri, Maharashtra",Yes
+4,Maharashtra,Ratnagiri,Ratnagiri,Disaster Control Room,Disaster Control Room Department,1077,112,disastercontrolroom@example.gov.in,"Ratnagiri, Ratnagiri, Maharashtra",Yes
+5,Maharashtra,Ratnagiri,Ratnagiri,Women Helpline,Women Helpline Department,1091,112,womenhelpline@example.gov.in,"Ratnagiri, Ratnagiri, Maharashtra",Yes
+6,Maharashtra,Ratnagiri,Ratnagiri,Child Helpline,Child Helpline Department,1098,112,childhelpline@example.gov.in,"Ratnagiri, Ratnagiri, Maharashtra",Yes
+7,Maharashtra,Ratnagiri,Ratnagiri City,Police,Police Department,100,112,police@example.gov.in,"Ratnagiri City, Ratnagiri, Maharashtra",Yes
+8,Maharashtra,Ratnagiri,Ratnagiri City,Fire,Fire Department,101,112,fire@example.gov.in,"Ratnagiri City, Ratnagiri, Maharashtra",Yes
+9,Maharashtra,Ratnagiri,Ratnagiri City,Ambulance,Ambulance Department,108,112,ambulance@example.gov.in,"Ratnagiri City, Ratnagiri, Maharashtra",Yes
+10,Maharashtra,Ratnagiri,Ratnagiri City,Disaster Control Room,Disaster Control Room Department,1077,112,disastercontrolroom@example.gov.in,"Ratnagiri City, Ratnagiri, Maharashtra",Yes
+11,Maharashtra,Ratnagiri,Ratnagiri City,Women Helpline,Women Helpline Department,1091,112,womenhelpline@example.gov.in,"Ratnagiri City, Ratnagiri, Maharashtra",Yes
+12,Maharashtra,Ratnagiri,Ratnagiri City,Child Helpline,Child Helpline Department,1098,112,childhelpline@example.gov.in,"Ratnagiri City, Ratnagiri, Maharashtra",Yes
+13,Karnataka,Bengaluru Urban,Bengaluru,Police,Police Department,100,112,police@example.gov.in,"Bengaluru, Bengaluru Urban, Karnataka",Yes
+14,Karnataka,Bengaluru Urban,Bengaluru,Fire,Fire Department,101,112,fire@example.gov.in,"Bengaluru, Bengaluru Urban, Karnataka",Yes
+15,Karnataka,Bengaluru Urban,Bengaluru,Ambulance,Ambulance Department,108,112,ambulance@example.gov.in,"Bengaluru, Bengaluru Urban, Karnataka",Yes
+16,Karnataka,Bengaluru Urban,Bengaluru,Disaster Control Room,Disaster Control Room Department,1077,112,disastercontrolroom@example.gov.in,"Bengaluru, Bengaluru Urban, Karnataka",Yes
+17,Karnataka,Bengaluru Urban,Bengaluru,Women Helpline,Women Helpline Department,1091,112,womenhelpline@example.gov.in,"Bengaluru, Bengaluru Urban, Karnataka",Yes
+18,Karnataka,Bengaluru Urban,Bengaluru,Child Helpline,Child Helpline Department,1098,112,childhelpline@example.gov.in,"Bengaluru, Bengaluru Urban, Karnataka",Yes
+19,Karnataka,Bengaluru Urban,Bengaluru City,Police,Police Department,100,112,police@example.gov.in,"Bengaluru City, Bengaluru Urban, Karnataka",Yes
+20,Karnataka,Bengaluru Urban,Bengaluru City,Fire,Fire Department,101,112,fire@example.gov.in,"Bengaluru City, Bengaluru Urban, Karnataka",Yes
+21,Karnataka,Bengaluru Urban,Bengaluru City,Ambulance,Ambulance Department,108,112,ambulance@example.gov.in,"Bengaluru City, Bengaluru Urban, Karnataka",Yes
+22,Karnataka,Bengaluru Urban,Bengaluru City,Disaster Control Room,Disaster Control Room Department,1077,112,disastercontrolroom@example.gov.in,"Bengaluru City, Bengaluru Urban, Karnataka",Yes
+23,Karnataka,Bengaluru Urban,Bengaluru City,Women Helpline,Women Helpline Department,1091,112,womenhelpline@example.gov.in,"Bengaluru City, Bengaluru Urban, Karnataka",Yes
+24,Karnataka,Bengaluru Urban,Bengaluru City,Child Helpline,Child Helpline Department,1098,112,childhelpline@example.gov.in,"Bengaluru City, Bengaluru Urban, Karnataka",Yes
+25,Gujarat,Ahmedabad,Ahmedabad,Police,Police Department,100,112,police@example.gov.in,"Ahmedabad, Ahmedabad, Gujarat",Yes
+26,Gujarat,Ahmedabad,Ahmedabad,Fire,Fire Department,101,112,fire@example.gov.in,"Ahmedabad, Ahmedabad, Gujarat",Yes
+27,Gujarat,Ahmedabad,Ahmedabad,Ambulance,Ambulance Department,108,112,ambulance@example.gov.in,"Ahmedabad, Ahmedabad, Gujarat",Yes
+28,Gujarat,Ahmedabad,Ahmedabad,Disaster Control Room,Disaster Control Room Department,1077,112,disastercontrolroom@example.gov.in,"Ahmedabad, Ahmedabad, Gujarat",Yes
+29,Gujarat,Ahmedabad,Ahmedabad,Women Helpline,Women Helpline Department,1091,112,womenhelpline@example.gov.in,"Ahmedabad, Ahmedabad, Gujarat",Yes
+30,Gujarat,Ahmedabad,Ahmedabad,Child Helpline,Child Helpline Department,1098,112,childhelpline@example.gov.in,"Ahmedabad, Ahmedabad, Gujarat",Yes
+31,Gujarat,Ahmedabad,Ahmedabad City,Police,Police Department,100,112,police@example.gov.in,"Ahmedabad City, Ahmedabad, Gujarat",Yes
+32,Gujarat,Ahmedabad,Ahmedabad City,Fire,Fire Department,101,112,fire@example.gov.in,"Ahmedabad City, Ahmedabad, Gujarat",Yes
+33,Gujarat,Ahmedabad,Ahmedabad City,Ambulance,Ambulance Department,108,112,ambulance@example.gov.in,"Ahmedabad City, Ahmedabad, Gujarat",Yes
+34,Gujarat,Ahmedabad,Ahmedabad City,Disaster Control Room,Disaster Control Room Department,1077,112,disastercontrolroom@example.gov.in,"Ahmedabad City, Ahmedabad, Gujarat",Yes
+35,Gujarat,Ahmedabad,Ahmedabad City,Women Helpline,Women Helpline Department,1091,112,womenhelpline@example.gov.in,"Ahmedabad City, Ahmedabad, Gujarat",Yes
+36,Gujarat,Ahmedabad,Ahmedabad City,Child Helpline,Child Helpline Department,1098,112,childhelpline@example.gov.in,"Ahmedabad City, Ahmedabad, Gujarat",Yes
+37,Tamil Nadu,Chennai,Chennai,Police,Police Department,100,112,police@example.gov.in,"Chennai, Chennai, Tamil Nadu",Yes
+38,Tamil Nadu,Chennai,Chennai,Fire,Fire Department,101,112,fire@example.gov.in,"Chennai, Chennai, Tamil Nadu",Yes
+39,Tamil Nadu,Chennai,Chennai,Ambulance,Ambulance Department,108,112,ambulance@example.gov.in,"Chennai, Chennai, Tamil Nadu",Yes
+40,Tamil Nadu,Chennai,Chennai,Disaster Control Room,Disaster Control Room Department,1077,112,disastercontrolroom@example.gov.in,"Chennai, Chennai, Tamil Nadu",Yes
+41,Tamil Nadu,Chennai,Chennai,Women Helpline,Women Helpline Department,1091,112,womenhelpline@example.gov.in,"Chennai, Chennai, Tamil Nadu",Yes
+42,Tamil Nadu,Chennai,Chennai,Child Helpline,Child Helpline Department,1098,112,childhelpline@example.gov.in,"Chennai, Chennai, Tamil Nadu",Yes
+43,Tamil Nadu,Chennai,Chennai City,Police,Police Department,100,112,police@example.gov.in,"Chennai City, Chennai, Tamil Nadu",Yes
+44,Tamil Nadu,Chennai,Chennai City,Fire,Fire Department,101,112,fire@example.gov.in,"Chennai City, Chennai, Tamil Nadu",Yes
+45,Tamil Nadu,Chennai,Chennai City,Ambulance,Ambulance Department,108,112,ambulance@example.gov.in,"Chennai City, Chennai, Tamil Nadu",Yes
+46,Tamil Nadu,Chennai,Chennai City,Disaster Control Room,Disaster Control Room Department,1077,112,disastercontrolroom@example.gov.in,"Chennai City, Chennai, Tamil Nadu",Yes
+47,Tamil Nadu,Chennai,Chennai City,Women Helpline,Women Helpline Department,1091,112,womenhelpline@example.gov.in,"Chennai City, Chennai, Tamil Nadu",Yes
+48,Tamil Nadu,Chennai,Chennai City,Child Helpline,Child Helpline Department,1098,112,childhelpline@example.gov.in,"Chennai City, Chennai, Tamil Nadu",Yes
+49,Delhi,New Delhi,New,Police,Police Department,100,112,police@example.gov.in,"New, New Delhi, Delhi",Yes
+50,Delhi,New Delhi,New,Fire,Fire Department,101,112,fire@example.gov.in,"New, New Delhi, Delhi",Yes
+51,Delhi,New Delhi,New,Ambulance,Ambulance Department,108,112,ambulance@example.gov.in,"New, New Delhi, Delhi",Yes
+52,Delhi,New Delhi,New,Disaster Control Room,Disaster Control Room Department,1077,112,disastercontrolroom@example.gov.in,"New, New Delhi, Delhi",Yes
+53,Delhi,New Delhi,New,Women Helpline,Women Helpline Department,1091,112,womenhelpline@example.gov.in,"New, New Delhi, Delhi",Yes
+54,Delhi,New Delhi,New,Child Helpline,Child Helpline Department,1098,112,childhelpline@example.gov.in,"New, New Delhi, Delhi",Yes
+55,Delhi,New Delhi,New City,Police,Police Department,100,112,police@example.gov.in,"New City, New Delhi, Delhi",Yes
+56,Delhi,New Delhi,New City,Fire,Fire Department,101,112,fire@example.gov.in,"New City, New Delhi, Delhi",Yes
+57,Delhi,New Delhi,New City,Ambulance,Ambulance Department,108,112,ambulance@example.gov.in,"New City, New Delhi, Delhi",Yes
+58,Delhi,New Delhi,New City,Disaster Control Room,Disaster Control Room Department,1077,112,disastercontrolroom@example.gov.in,"New City, New Delhi, Delhi",Yes
+59,Delhi,New Delhi,New City,Women Helpline,Women Helpline Department,1091,112,womenhelpline@example.gov.in,"New City, New Delhi, Delhi",Yes
+60,Delhi,New Delhi,New City,Child Helpline,Child Helpline Department,1098,112,childhelpline@example.gov.in,"New City, New Delhi, Delhi",Yes

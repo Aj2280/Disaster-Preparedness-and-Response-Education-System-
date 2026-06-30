@@ -1,0 +1,435 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+
+enum Role {
+  STUDENT
+  TEACHER
+  ADMIN
+}
+
+enum DisasterType {
+  EARTHQUAKE
+  FLOOD
+  FIRE
+  CYCLONE
+  LANDSLIDE
+  HEAT_WAVE
+  LIGHTNING
+  PANDEMIC
+  TSUNAMI
+  GENERAL
+}
+
+enum AlertPriority {
+  LOW
+  MEDIUM
+  HIGH
+  CRITICAL
+}
+
+enum AlertCategory {
+  EARTHQUAKE
+  FLOOD
+  FIRE
+  CYCLONE
+  LANDSLIDE
+  HEAT_WAVE
+  LIGHTNING
+  PANDEMIC
+  GENERAL
+  DRILL
+}
+
+model School {
+  id          String   @id @default(cuid())
+  name        String
+  address     String?
+  city        String?
+  state       String?
+  country     String   @default("India")
+  phone       String?
+  email       String?
+  website     String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  users       User[]
+  alerts      EmergencyAlert[]
+  contacts    EmergencyContact[]
+  drills      DrillRecord[]
+  schedules   EventSchedule[]
+}
+
+model User {
+  id              String    @id @default(cuid())
+  name            String
+  email           String    @unique
+  emailVerified   DateTime?
+  hashedPassword  String?
+  image           String?
+  role            Role      @default(STUDENT)
+  schoolId        String?
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  school          School?   @relation(fields: [schoolId], references: [id])
+  studentProfile  StudentProfile?
+  teacherProfile  TeacherProfile?
+  accounts        Account[]
+  sessions        Session[]
+  quizResults     QuizResult[]
+  certificates    Certificate[]
+  userBadges      UserBadge[]
+  userAchievements UserAchievement[]
+  simulationHistory SimulationHistory[]
+  notifications   Notification[]
+  streaks         DailyStreak[]
+  moduleProgress  ModuleProgress[]
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String? @db.Text
+  access_token      String? @db.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @db.Text
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+model StudentProfile {
+  id              String  @id @default(cuid())
+  userId          String  @unique
+  grade           String?
+  section         String?
+  rollNumber      String?
+  xpPoints        Int     @default(0)
+  level           Int     @default(1)
+  totalQuizzes    Int     @default(0)
+  avgScore        Float   @default(0)
+  drillsCompleted Int     @default(0)
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model TeacherProfile {
+  id         String  @id @default(cuid())
+  userId     String  @unique
+  subject    String?
+  department String?
+  employeeId String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model Module {
+  id           String       @id @default(cuid())
+  title        String
+  description  String       @db.Text
+  disasterType DisasterType
+  overview     String       @db.Text
+  causes       String       @db.Text
+  warningSigns String       @db.Text
+  beforeDisaster String     @db.Text
+  duringDisaster String     @db.Text
+  afterDisaster  String     @db.Text
+  emergencyChecklist String @db.Text
+  safetyTips   String       @db.Text
+  imageUrl     String?
+  iconEmoji    String       @default("⚠️")
+  color        String       @default("#3B82F6")
+  isPublished  Boolean      @default(true)
+  order        Int          @default(0)
+  createdAt    DateTime     @default(now())
+  updatedAt    DateTime     @updatedAt
+
+  quizzes      Quiz[]
+  progress     ModuleProgress[]
+}
+
+model ModuleProgress {
+  id          String   @id @default(cuid())
+  userId      String
+  moduleId    String
+  completed   Boolean  @default(false)
+  completedAt DateTime?
+  createdAt   DateTime @default(now())
+
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  module Module @relation(fields: [moduleId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, moduleId])
+}
+
+model Quiz {
+  id          String   @id @default(cuid())
+  moduleId    String
+  title       String
+  description String?
+  timeLimit   Int      @default(30) // minutes
+  passingScore Int     @default(70) // percentage
+  isPublished Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  module    Module       @relation(fields: [moduleId], references: [id], onDelete: Cascade)
+  questions Question[]
+  results   QuizResult[]
+}
+
+model Question {
+  id            String   @id @default(cuid())
+  quizId        String
+  text          String   @db.Text
+  optionA       String
+  optionB       String
+  optionC       String
+  optionD       String
+  correctOption String   // "A", "B", "C", or "D"
+  explanation   String   @db.Text
+  order         Int      @default(0)
+
+  quiz Quiz @relation(fields: [quizId], references: [id], onDelete: Cascade)
+}
+
+model QuizResult {
+  id          String   @id @default(cuid())
+  userId      String
+  quizId      String
+  score       Int
+  totalQ      Int
+  correctQ    Int
+  timeTaken   Int?     // seconds
+  passed      Boolean
+  xpEarned    Int      @default(0)
+  createdAt   DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  quiz Quiz @relation(fields: [quizId], references: [id], onDelete: Cascade)
+}
+
+model Certificate {
+  id           String   @id @default(cuid())
+  userId       String
+  title        String
+  description  String?
+  moduleType   String?
+  quizResultId String?
+  issuedAt     DateTime @default(now())
+  certificateNo String  @unique
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model Badge {
+  id          String   @id @default(cuid())
+  name        String
+  description String
+  iconEmoji   String
+  color       String   @default("#3B82F6")
+  criteria    String   // JSON description of how to earn
+  xpReward    Int      @default(50)
+
+  userBadges UserBadge[]
+}
+
+model UserBadge {
+  id       String   @id @default(cuid())
+  userId   String
+  badgeId  String
+  earnedAt DateTime @default(now())
+
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  badge Badge @relation(fields: [badgeId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, badgeId])
+}
+
+model Achievement {
+  id          String @id @default(cuid())
+  name        String
+  description String
+  iconEmoji   String
+  xpReward    Int    @default(100)
+  condition   String // JSON
+
+  userAchievements UserAchievement[]
+}
+
+model UserAchievement {
+  id            String   @id @default(cuid())
+  userId        String
+  achievementId String
+  unlockedAt    DateTime @default(now())
+
+  user        User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  achievement Achievement @relation(fields: [achievementId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, achievementId])
+}
+
+model DailyStreak {
+  id        String   @id @default(cuid())
+  userId    String
+  date      DateTime @db.Date
+  completed Boolean  @default(true)
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, date])
+}
+
+model SimulationScenario {
+  id           String       @id @default(cuid())
+  disasterType DisasterType
+  title        String
+  description  String       @db.Text
+  isPublished  Boolean      @default(true)
+
+  steps     SimulationStep[]
+  histories SimulationHistory[]
+}
+
+model SimulationStep {
+  id           String @id @default(cuid())
+  scenarioId   String
+  order        Int
+  situation    String @db.Text
+  optionA      String
+  optionB      String
+  optionC      String
+  correctOption String // "A", "B", "C"
+  explanationA String @db.Text
+  explanationB String @db.Text
+  explanationC String @db.Text
+
+  scenario SimulationScenario @relation(fields: [scenarioId], references: [id], onDelete: Cascade)
+}
+
+model SimulationHistory {
+  id          String   @id @default(cuid())
+  userId      String
+  scenarioId  String
+  score       Int
+  totalSteps  Int
+  correctSteps Int
+  completedAt DateTime @default(now())
+
+  user     User               @relation(fields: [userId], references: [id], onDelete: Cascade)
+  scenario SimulationScenario @relation(fields: [scenarioId], references: [id], onDelete: Cascade)
+}
+
+model EmergencyAlert {
+  id          String        @id @default(cuid())
+  schoolId    String?
+  title       String
+  description String        @db.Text
+  priority    AlertPriority @default(MEDIUM)
+  category    AlertCategory @default(GENERAL)
+  isActive    Boolean       @default(true)
+  publishedAt DateTime      @default(now())
+  expiresAt   DateTime?
+  publishedBy String
+
+  school School? @relation(fields: [schoolId], references: [id])
+}
+
+model EmergencyContact {
+  id          String  @id @default(cuid())
+  schoolId    String?
+  name        String
+  role        String  // e.g. "Police", "Fire Department"
+  phone       String
+  altPhone    String?
+  email       String?
+  isNational  Boolean @default(false)
+  priority    Int     @default(0)
+
+  school School? @relation(fields: [schoolId], references: [id])
+}
+
+model DrillRecord {
+  id           String   @id @default(cuid())
+  schoolId     String
+  disasterType DisasterType
+  date         DateTime
+  participants Int
+  duration     Int      // minutes
+  notes        String?
+  createdAt    DateTime @default(now())
+
+  school School @relation(fields: [schoolId], references: [id])
+}
+
+model EventSchedule {
+  id           String   @id @default(cuid())
+  schoolId     String
+  title        String
+  description  String?  @db.Text
+  eventType    String   @default("DRILL") // DRILL, WEBINAR, DEADLINE
+  disasterType DisasterType?
+  date         DateTime
+  location     String?
+  createdBy    String
+  createdAt    DateTime @default(now())
+
+  school School @relation(fields: [schoolId], references: [id])
+}
+
+model Notification {
+  id        String   @id @default(cuid())
+  userId    String
+  title     String
+  message   String
+  type      String   @default("INFO")
+  isRead    Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model HistoricalDisaster {
+  id            String       @id @default(cuid())
+  originalId    Int?
+  disasterType  DisasterType
+  location      String
+  magnitude     Float
+  date          DateTime
+  fatalities    Int
+  economicLoss  Float
+  createdAt     DateTime     @default(now())
+}
